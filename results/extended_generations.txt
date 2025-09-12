@@ -1,0 +1,111 @@
+================================================================================
+EXTENDED TEXT GENERATION SAMPLES
+Using Best Model: LSTM (Test PPL: 3.21)
+Optimal Hyperparameters: Dropout=0.2, Seq_Length=256, Hidden=256
+================================================================================
+
+
+CONSERVATIVE EXTENDED
+============================================================
+Temperature: 0.8
+Target Length: 500 characters
+------------------------------------------------------------
+
+Prompt: "The basement door had been locked for twenty years"
+Length: 500 characters
+----------------------------------------
+ over the treeline. All I was making sure all of them let out a girl of the surface of my stomach. They were concerned. I started to think that he moved from already and blurred together and prepared. She laughed as they sat there, then burning on the presence. It was the time I used the grout of the parking lot, which was empty. I found the slice footprints. Something beached at the ground, the smile still glass of nightmare. I knew I was staring at a single light. I looked over to the store ta
+
+========================================
+
+Prompt: "I found a diary in the walls of my new house"
+Length: 500 characters
+----------------------------------------
+, the shadows were there, the same neighborhood covering it open, and an eternity, a nane crank through. The screen, and felt. “Hey,” I said. “It wouldn't be ready…” “I didn’t follow you at the concrete. I scattered at first, but there is a way, more able to come out of that friend. You’re not a sound, I don’t want to believe it. About the other one who worked the service. The woman got a something in the 41st and hand across the room and head forward to me until the job felt like a living room.
+
+========================================
+
+Prompt: "The children in the neighborhood won't stop staring"
+Length: 500 characters
+----------------------------------------
+ at me up. “You know what I’m standing at the road after I think that’s what it's himself at really in this time, but if you can die sorry made the house.” Clay in an air that said we saw Weshern and I would have been so trying to make out from the town and a lie. “Hey, I’m fairly expected to say anything about the doors as your room secrets are all air over.” “What did you do?” He threw the place, his head pointed to its grass. I just found myself still still inhaled with the water. He pressed 
+
+========================================
+
+Prompt: "My reflection started moving on its own"
+Length: 178 characters
+----------------------------------------
+ eyes of the skull. He said, “Yeah.” “I would feel nothing further, to the broken with me!” “Oh, uh, they’d own your funny of buried advances before smiling, not with them again.
+
+========================================
+
+
+BALANCED LONG-FORM
+============================================================
+Temperature: 1.0
+Target Length: 750 characters
+------------------------------------------------------------
+
+Prompt: "The basement door had been locked for twenty years"
+Length: 750 characters
+----------------------------------------
+ of porden, watching the minutes of Januay: “Daniel, Here,” he said we described it when I shook her head, numbered while I saw everything ignored him. He had the words who worked and that weren't her good. I’ve eyes all the past. But as I reached up a corker, I looked onto the door to her. The dock in my third drop in my leg, smiling after the days. The situation was hiding, the rare thing to expressive. When I reaked the doctor, I quickly stood at the ground, seriously. He was relieved, so soon we were. “Well this is retired and just tossed yourself to fall with kitchenes, and here you wanted strange you decided to feel intensity, and because what do I think this at Hard? You’re alcared to say—obvious!” His fleshly. It sounded episoled in
+
+========================================
+
+Prompt: "I found a diary in the walls of my new house"
+Length: 750 characters
+----------------------------------------
+. The kids never knew something was real. Everyone was always ran. This was the rumble panecting on the hallway; I could feel the taxes, immediately for a couple of time that we reached my way. They might smell a scream, and I headed over. “Where do you mean I’m kicking, we are drowning.” “I feel it. I’m dry.” She burrowed out inside and went on. “Okay, I'm squeezing darkness. My neck should never guess. Don’t do where she can have the ugless Kay's boss and your meaning was gone…’s myself!” I said as well this rubbed the with my swarped exact noise. Then it still started willing to start a wimming conquicious line. This gleam, they were rearing from his word yellow. Mia was just sounded like he pulled out the cat holding her head just out o
+
+========================================
+
+Prompt: "The children in the neighborhood won't stop staring"
+Length: 750 characters
+----------------------------------------
+ out councernissing. He was so strong I was a people either made, of course. “You will not go in our gath either rim, Pauline cames and didn’t do the pack of your ruzzling in me!” She’d depeared in contact, all to stay. “For a while you can tell you don’t want you the di-concern. She nodded with our medic. “Cory,” Maight looked drug. I told myself I’d taken offering, but only just pass animals since I had made that we had found like for a moment that My aunt me. I will see the previous reseaver or smooth, and I stated the picture of the courthole as if that didn’t pass my perpective. As I fought over many of our little skin, he was recovers. Rocket visit wall from the seatshape of the kitchen. The last secluded speaking had criiged to us. T
+
+========================================
+
+Prompt: "My reflection started moving on its own"
+Length: 750 characters
+----------------------------------------
+ area and I'd seen the floor a void. My daughter had pounded dirt, the tension that entered the neurotor neon danger than I was home. Just a time. There was only one foot and warning what felt meaning and standing outside the doorway. As I turned. There were also was parking and worse. Then there was never the week to learn because deep down. For a time, I noticed that the kind up otherwise born about the man one of it had makes the man, but nothing was mine, a glimpse. I desperately saw him. He spent realizing that the story clipped down before he had wished enough that it would be wanting to remove something. “You’re standing as I figured of the fighting dwinning feelings. Prest?” With my billow fortune, my white depths existed from perha
+
+========================================
+
+
+CREATIVE NARRATIVE
+============================================================
+Temperature: 1.1
+Target Length: 1000 characters
+------------------------------------------------------------
+
+Prompt: "The basement door had been locked for twenty years"
+Length: 1000 characters
+----------------------------------------
+ to show out some time to eat and gut. Warm circled in the fashion. We bought, with fumors, in swimming strange weight. While phyp. With it and turn, Each plechuppeiaghed teen, while expressively near the labby, slipping its against an and watch. When Kocomore Shards were never gone, my lost waves distorted view on the endless engine, faster on the provatical finger into a breakdown back over the car though. Of course, I didn’t have anything octing to struggle to see. Blue night, I heard the next ten taclistical, and I crips, hoping the doctor fell dark. I continued hodded into my shoulder or vaciation, was the hays picked up at the floor. If the morning, I began considering the wirebold she would take in an odd four scome lurk eyes as I got out. The voice was rolling off. This was chain from urge. Everything hadn't left a room. I locked up, complingly another kim, but no interest began casting hanging through the pull has—and I'd run clazily two confusion. Jates snapped and seeped bac
+
+========================================
+
+Prompt: "I found a diary in the walls of my new house"
+Length: 726 characters
+----------------------------------------
+. I am not much to ny flesh. No importantly instincts, so I thought the usual light defending from my brain was breathing after a minute. Even though, the next man lunging something colded up, explaining to paper that in one weird, they deskly was just taking a shadow glow. My spot, observed the first stop tightly. Of course, I tell myself that amounts of hairs behind us, even if I get the topy with Kurse. Had it once on it and the whole fire went to far hosting for them—silence, risk strangers. Frozen gaze away the folk was dipping towards the darkness. Extremely not supposed to say I felt something pointing into a bound standing: I find him after the same leftover as he pulled out his face, but he finally arrived. 
+
+========================================
+
+Prompt: "The children in the neighborhood won't stop staring"
+Length: 476 characters
+----------------------------------------
+, and my child’s own mising question. It felt resistent not to help the old-scuff followed. I don’t ran out of calling four true. She wasn’t thinking more they had run too. She explanation, I can't play with a racing evir half-caught. No, I belong to pick weird, hoping to rush to the way, firen-angves gyt trees discang hard. Chang. I heard sightly, almost safety sister said he said, “Don't be rots, I saw my clouds and putchings.” “Short room light galloce and condennight?
+
+========================================
+
+Prompt: "My reflection started moving on its own"
+Length: 1000 characters
+----------------------------------------
+ brick. I mentioned that how of the grave kids wanted by not the building laughing, strange a- mom, I saw. Dr would’ve have to see how it popped back. Even we don’t allow it to me first—mixing my still pulshot of figures, looking down again. And it was graining. “Well, that’s say.” She started to inferned. The human trying to wait. His eyes must have lotted more, hell hot nue out. “Oh, you heard the time?” the empty loud run door on her full girl, but then turned and were bent to people intercorbance with his words to comprehend the gold fingertip on accliever I was coming from the touch of painted figures, knocking the footsteps. He flipped a whole blood in the owl. Then his face never thought he had gravelers barely over me. Too glitting, her arms rabe a new sigh as well. The finger pulled up or loying the exact solution—except it would barely open each other into the house. “Hold, she’s the same crowd,” she said, asking because if he was dainy as he would nature there. Left a slide 
+
+========================================
+

@@ -43,17 +43,14 @@ Each dataset contains train/test splits in JSONL format with `human` (question) 
 
 ## Training
 
-### Full Fine-tuning
+All training jobs should be run using the scripts in `model/scripts/`:
+
+### Run Preliminary Training (Full + Baseline LoRA)
 ```bash
-python model/train_full.py data/aimc_formatted/aimc_train.jsonl model/checkpoints/aimc_full
+bash model/scripts/run_training_prelim.sh
 ```
 
-### LoRA Fine-tuning
-```bash
-python model/train_lora.py data/aimc_formatted/aimc_train.jsonl model/checkpoints/aimc_lora_baseline
-```
-
-### Grid Search
+### Run Grid Search Training
 ```bash
 python model/scripts/train_lora_aimc_gs.py
 python model/scripts/train_lora_huatuo_gs.py
@@ -61,19 +58,20 @@ python model/scripts/train_lora_huatuo_gs.py
 
 ## Evaluation
 
-### Evaluate Single Model
-```bash
-python model/evaluate_lora.py \
-    --model_path model/checkpoints/aimc_lora_baseline \
-    --test_file data/aimc_formatted/aimc_test.jsonl \
-    --output_file results/eval_aimc_lora.json \
-    --language en
-```
+All evaluation should be run using the scripts in `model/scripts/`:
 
-### Evaluate All Models
+### Evaluate Baseline Models
 ```bash
 bash model/scripts/run_eval_baseline_lora.sh
+```
+
+### Evaluate Full Fine-tuned Models
+```bash
 bash model/scripts/run_eval_full.sh
+```
+
+### Evaluate Grid Search Models
+```bash
 bash model/scripts/run_eval_gs_loras.sh
 ```
 
@@ -83,6 +81,11 @@ python model/collate_metrics.py
 ```
 
 Results will be saved to `results/collated_metrics.json` and `results/collated_metrics.csv`.
+
+### Generate Qualitative Samples
+```bash
+bash model/scripts/run_qualitative_generation.sh
+```
 
 ## Evaluation Metrics
 

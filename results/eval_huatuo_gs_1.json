@@ -1,0 +1,15 @@
+{
+  "model_path": "model/checkpoints/huatuo_lora_gs/huatuo_gs_1_lr5e-04_r16_alpha64_do0.05/final",
+  "test_data": "data/huatuo_formatted/huatuo_test.jsonl",
+  "num_samples": 3037,
+  "metrics": {
+    "rouge1": 0.11357890070718174,
+    "rouge2": 0.0831322231117088,
+    "rougeL": 0.11253583388868373,
+    "f1": 0.03235539218818007,
+    "bertscore_precision": 0.7013984322547913,
+    "bertscore_recall": 0.6709157824516296,
+    "bertscore_f1": 0.6852312684059143,
+    "exact_match": 0.0
+  }
+}

@@ -1,0 +1,13 @@
+dataset,model_type,log_file,rouge1,rouge2,rougeL,f1,bertscore_f1,exact_match
+aimc,baseline_lora,eval_aimc_baseline.log,0.4086,0.3547,0.4041,0.4365,0.6414,0.1077
+aimc,full,eval_aimc_full.log,0.4528,0.4032,0.449,0.4791,0.6717,0.1739
+aimc,gs_1,eval_aimc_gs_1.log,0.3486,0.2911,0.339,0.3777,0.6125,0.1261
+aimc,gs_2,eval_aimc_gs_2.log,0.3236,0.2507,0.3094,0.3502,0.592,0.0945
+aimc,gs_3,eval_aimc_gs_3.log,0.3294,0.2681,0.3225,0.359,0.6001,0.1231
+aimc,gs_4,eval_aimc_gs_4.log,0.3659,0.3099,0.3602,0.3921,0.6197,0.1399
+huatuo,baseline_lora,eval_huatuo_baseline.log,0.1,0.0711,0.0992,0.0277,0.6809,0.0
+huatuo,full,eval_huatuo_full.log,0.166,0.1173,0.1637,0.0454,0.7035,0.0
+huatuo,gs_1,eval_huatuo_gs_1.log,0.1136,0.0831,0.1125,0.0324,0.6852,0.0
+huatuo,gs_2,eval_huatuo_gs_2.log,0.119,0.0866,0.1179,0.0351,0.688,0.0
+huatuo,gs_3,eval_huatuo_gs_3.log,0.1051,0.0746,0.1042,0.0305,0.682,0.0
+huatuo,gs_4,eval_huatuo_gs_4.log,0.0998,0.0742,0.0991,0.029,0.6806,0.0

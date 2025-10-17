@@ -1,0 +1,10 @@
+# Model checkpoints
+model/checkpoints/
+
+# Logs
+logs/
+wandb/
+
+# Python cache
+__pycache__/
+*.pyc

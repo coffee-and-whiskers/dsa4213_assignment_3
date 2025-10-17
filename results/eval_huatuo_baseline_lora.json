@@ -1,0 +1,15 @@
+{
+  "model_path": "model/checkpoints/huatuo_lora_baseline/final",
+  "test_data": "data/huatuo_formatted/huatuo_test.jsonl",
+  "num_samples": 3037,
+  "metrics": {
+    "rouge1": 0.10002852404608455,
+    "rouge2": 0.0710548032197545,
+    "rougeL": 0.09922083076640768,
+    "f1": 0.027711070428275933,
+    "bertscore_precision": 0.7015233635902405,
+    "bertscore_recall": 0.6627431511878967,
+    "bertscore_f1": 0.6809455156326294,
+    "exact_match": 0.0
+  }
+}

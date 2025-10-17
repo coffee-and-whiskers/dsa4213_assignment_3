@@ -1,0 +1,15 @@
+{
+  "model_path": "model/checkpoints/huatuo_full/final",
+  "test_data": "data/huatuo_formatted/huatuo_test.jsonl",
+  "num_samples": 3037,
+  "metrics": {
+    "rouge1": 0.1659927703103322,
+    "rouge2": 0.11733518665479192,
+    "rougeL": 0.163700626447412,
+    "f1": 0.0454333036833434,
+    "bertscore_precision": 0.7120996117591858,
+    "bertscore_recall": 0.6962383985519409,
+    "bertscore_f1": 0.7035062313079834,
+    "exact_match": 0.0
+  }
+}

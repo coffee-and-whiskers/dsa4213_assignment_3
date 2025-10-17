@@ -1,0 +1,134 @@
+[
+  {
+    "dataset": "aimc",
+    "model_type": "baseline_lora",
+    "log_file": "eval_aimc_baseline.log",
+    "rouge1": 0.4086,
+    "rouge2": 0.3547,
+    "rougeL": 0.4041,
+    "f1": 0.4365,
+    "bertscore_f1": 0.6414,
+    "exact_match": 0.1077
+  },
+  {
+    "dataset": "aimc",
+    "model_type": "full",
+    "log_file": "eval_aimc_full.log",
+    "rouge1": 0.4528,
+    "rouge2": 0.4032,
+    "rougeL": 0.449,
+    "f1": 0.4791,
+    "bertscore_f1": 0.6717,
+    "exact_match": 0.1739
+  },
+  {
+    "dataset": "aimc",
+    "model_type": "gs_1",
+    "log_file": "eval_aimc_gs_1.log",
+    "rouge1": 0.3486,
+    "rouge2": 0.2911,
+    "rougeL": 0.339,
+    "f1": 0.3777,
+    "bertscore_f1": 0.6125,
+    "exact_match": 0.1261
+  },
+  {
+    "dataset": "aimc",
+    "model_type": "gs_2",
+    "log_file": "eval_aimc_gs_2.log",
+    "rouge1": 0.3236,
+    "rouge2": 0.2507,
+    "rougeL": 0.3094,
+    "f1": 0.3502,
+    "bertscore_f1": 0.592,
+    "exact_match": 0.0945
+  },
+  {
+    "dataset": "aimc",
+    "model_type": "gs_3",
+    "log_file": "eval_aimc_gs_3.log",
+    "rouge1": 0.3294,
+    "rouge2": 0.2681,
+    "rougeL": 0.3225,
+    "f1": 0.359,
+    "bertscore_f1": 0.6001,
+    "exact_match": 0.1231
+  },
+  {
+    "dataset": "aimc",
+    "model_type": "gs_4",
+    "log_file": "eval_aimc_gs_4.log",
+    "rouge1": 0.3659,
+    "rouge2": 0.3099,
+    "rougeL": 0.3602,
+    "f1": 0.3921,
+    "bertscore_f1": 0.6197,
+    "exact_match": 0.1399
+  },
+  {
+    "dataset": "huatuo",
+    "model_type": "baseline_lora",
+    "log_file": "eval_huatuo_baseline.log",
+    "rouge1": 0.1,
+    "rouge2": 0.0711,
+    "rougeL": 0.0992,
+    "f1": 0.0277,
+    "bertscore_f1": 0.6809,
+    "exact_match": 0.0
+  },
+  {
+    "dataset": "huatuo",
+    "model_type": "full",
+    "log_file": "eval_huatuo_full.log",
+    "rouge1": 0.166,
+    "rouge2": 0.1173,
+    "rougeL": 0.1637,
+    "f1": 0.0454,
+    "bertscore_f1": 0.7035,
+    "exact_match": 0.0
+  },
+  {
+    "dataset": "huatuo",
+    "model_type": "gs_1",
+    "log_file": "eval_huatuo_gs_1.log",
+    "rouge1": 0.1136,
+    "rouge2": 0.0831,
+    "rougeL": 0.1125,
+    "f1": 0.0324,
+    "bertscore_f1": 0.6852,
+    "exact_match": 0.0
+  },
+  {
+    "dataset": "huatuo",
+    "model_type": "gs_2",
+    "log_file": "eval_huatuo_gs_2.log",
+    "rouge1": 0.119,
+    "rouge2": 0.0866,
+    "rougeL": 0.1179,
+    "f1": 0.0351,
+    "bertscore_f1": 0.688,
+    "exact_match": 0.0
+  },
+  {
+    "dataset": "huatuo",
+    "model_type": "gs_3",
+    "log_file": "eval_huatuo_gs_3.log",
+    "rouge1": 0.1051,
+    "rouge2": 0.0746,
+    "rougeL": 0.1042,
+    "f1": 0.0305,
+    "bertscore_f1": 0.682,
+    "exact_match": 0.0
+  },
+  {
+    "dataset": "huatuo",
+    "model_type": "gs_4",
+    "log_file": "eval_huatuo_gs_4.log",
+    "rouge1": 0.0998,
+    "rouge2": 0.0742,
+    "rougeL": 0.0991,
+    "f1": 0.029,
+    "bertscore_f1": 0.6806,
+    "exact_match": 0.0
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "model_path": "model/checkpoints/aimc_lora_gs/aimc_gs_1_lr2.0e-04_r16_alpha64_do0.1/final",
+  "test_data": "data/aimc_formatted/aimc_test.jsonl",
+  "num_samples": 3037,
+  "metrics": {
+    "rouge1": 0.34859759999498824,
+    "rouge2": 0.29111065575203326,
+    "rougeL": 0.3390465971582836,
+    "f1": 0.3777263467721551,
+    "bertscore_precision": 0.7286126613616943,
+    "bertscore_recall": 0.549785852432251,
+    "bertscore_f1": 0.6125229001045227,
+    "exact_match": 0.1261112940401712
+  }
+}

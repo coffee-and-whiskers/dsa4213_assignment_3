@@ -1,0 +1,15 @@
+{
+  "model_path": "model/checkpoints/aimc_full/final",
+  "test_data": "data/aimc_formatted/aimc_test.jsonl",
+  "num_samples": 3037,
+  "metrics": {
+    "rouge1": 0.4528160527734466,
+    "rouge2": 0.4031532906630366,
+    "rougeL": 0.4490317469729761,
+    "f1": 0.47907557280713925,
+    "bertscore_precision": 0.7594981789588928,
+    "bertscore_recall": 0.6240783333778381,
+    "bertscore_f1": 0.6716985702514648,
+    "exact_match": 0.1738557787290089
+  }
+}

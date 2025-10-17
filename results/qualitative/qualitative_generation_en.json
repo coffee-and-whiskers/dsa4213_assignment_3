@@ -1,0 +1,1400 @@
+{
+  "full": {
+    "temp_0.7": [
+      {
+        "question": "What is the difference between a CT scan and an MRI, and when would a doctor choose one over the other?",
+        "answer": "The difference between CT scan and MRI is between MRI and a CT scan. It is called a nuclear scan, and it is a radiological scan. If you have a clinical examination, then it is important to consider a radiograph. You can have MRI scan and CT scan for further evaluation.",
+        "temperature": 0.7
+      },
+      {
+        "question": "Can you explain what hemoglobin A1c is and why it's important for monitoring diabetes?",
+        "answer": "According to your query, your hemoglobin levels are within normal limits and these are very important for a healthy lifestyle. The hemoglobin level is high because of the infection of the lungs. The heart is very high, so you need to monitor your blood sugar levels regularly. You can take a low dose of vitamin D. Avoid smoking and drinking if you have a family history of diabetes.",
+        "temperature": 0.7
+      },
+      {
+        "question": "I've heard about the gut microbiome affecting mental health. Is there scientific evidence for this connection?",
+        "answer": "I have gone through your question and can understand your concerns. For further information consult a neurologist online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "What are the main differences between viral and bacterial infections, and why do antibiotics only work for one type?",
+        "answer": "According to your description, infections are different from viral to bacterial. The infection can be spread by a combination of various medications, which is called antibiotics. However, when infection is spread in a single form, bacteria often are treated by antibiotics called Paracetamol. They can also cause infection. So, they have to be treated.",
+        "temperature": 0.7
+      },
+      {
+        "question": "How does chemotherapy work to kill cancer cells, and why does it also cause side effects like hair loss?",
+        "answer": "According to your statement, chemotherapy is a good treatment to kill cancer cells. It is very effective in reducing the damage to the cells which cause hair loss. It can cause side effects like hair loss, hair loss can occur due to the use of androgens. However, if the radiation therapy is done during chemotherapy, it can damage the lymph nodes which can suppress the healing process. Also, chemotherapies can delay the removal of lymphocytes, which will increase the risk of cancer. So, you can take oral chemotherapy for hair loss if you have any.",
+        "temperature": 0.7
+      },
+      {
+        "question": "What is the purpose of inflammation in the body, and when does it become harmful?",
+        "answer": "I have read through your query in detail. There are many causes of inflammation like inflammation, which cause inflammation. They are related to inflammation and inflammation in the body. However, these are mainly due to infection and sometimes infections can occur during infection. Inflammation is due to increased inflammation of the body, and these can be treated with treatment. If you have symptoms of diabetes, then it can be managed naturally with medicines. These are the cause of inflammatory disease. Another cause is inflammation which can occur due to the presence of infection in the blood. I would recommend you to get your blood tested for serum calcium and vitamin D. I suggest you to visit a nearby surgeon for further work up.",
+        "temperature": 0.7
+      },
+      {
+        "question": "Can you explain how vaccines train the immune system without causing the actual disease?",
+        "answer": "I have read your question carefully and understand your concerns. For further information consult a general medicine physician online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "What happens during a stroke, and why is immediate treatment so critical?",
+        "answer": "I have gone through your query and can understand your concerns. However, a stroke is not a fatal disease, and it is a rare disease, but it is not an emergency. When a patient is developing stroke, it is common to have a heart attack. Once the stroke does not stop, it needs to be evaluated and treated. The stroke can cause a lot of adverse effects, and there are a number of causes like stroke-related changes, strokes, cardiac changes and cardiacy changes. I would suggest you get an echocardiogram done to find out the cause of stroke.",
+        "temperature": 0.7
+      },
+      {
+        "question": "How do statins lower cholesterol levels, and what are the potential side effects?",
+        "answer": "Hope this helps you and get back if you have any doubts. For further queries consult a cardiologist online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "What is the difference between Type 1 and Type 2 diabetes in terms of causes and treatment?",
+        "answer": "According to your statement, you are not having diabetes. These are the blood tests given for the blood test for which you have to be on medications. The medication is given to treat diabetes and should be taken according to the medication prescription.",
+        "temperature": 0.7
+      },
+      {
+        "question": "Why do some people develop autoimmune diseases where their immune system attacks healthy cells?",
+        "answer": "Welcome to the icliniq.com. Based on the details provided by you, I can understand your concern. Autoimmune diseases include chronic inflammatory diseases. These are chronic autoimmune disease. It is a chronic condition called autoimmunity. It occurs when the immune system is damaged. It usually takes time to get damage to the immunes. It can be treated with medications. For more information consult a general medicine physician online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "How does chronic stress affect the body's organs and systems over time?",
+        "answer": "Chronic stress does not affect the body's functioning and causes various problems. Chronic anxiety and stress are a common cause of stress. However, a stressful life is a very important cause for stress. In case of a lifelong lifelong stress, avoid excess stress or avoiding excess physical activity. Try to do some things to relieve stress. Take a lot of fruits, vegetables, and vegetable. Take plenty of fluids, milk, and milk. Take some vitamin supplements, like Vitamin C and B12 supplements. Regards. For more information consult a psychiatrist online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "What causes antibiotic resistance, and how can we prevent it from getting worse?",
+        "answer": "Based on your query, my opinion is as follows: For further information consult a general practitioner online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "Can you explain what blood pressure numbers mean and what's considered a healthy range?",
+        "answer": "Revert back with the reports to a cardiologist online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "What is the placebo effect, and how powerful is it in medical treatments?",
+        "answer": "Please answer a few questions, so that I can guide you further. Please find my observations below. Regards. For more information consult a general practitioner online -->",
+        "temperature": 0.7
+      }
+    ],
+    "temp_1.0": [
+      {
+        "question": "What is the difference between a CT scan and an MRI, and when would a doctor choose one over the other?",
+        "answer": "For further information consult an internal medicine physician online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "Can you explain what hemoglobin A1c is and why it's important for monitoring diabetes?",
+        "answer": "For more information consult a medical gastroenterologist online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "I've heard about the gut microbiome affecting mental health. Is there scientific evidence for this connection?",
+        "answer": "I understand your concern. I understand that you are aware about gut microbiome. The gut microbioma is a genetic accumulation of the gut microbious tissue which cannot be identified in any scientific laboratory. But it is not related to mental health. The microbiome is very small and definitely involves multiple cells. It is not much significant. In your case, it is more likely due to genetic conditions. It may cause significant stress and poor mental health but does not affect mental health entirely. I would suggest you avoid the use of antibiotics along with medicines, and some physical exercises to relieve stress. Also, avoid smoking and alcohol if any. Again, please send me the reports. I hope this helps.",
+        "temperature": 1.0
+      },
+      {
+        "question": "What are the main differences between viral and bacterial infections, and why do antibiotics only work for one type?",
+        "answer": "According to your description, there are three different types of infections: These are bacterial infection types. First of all, the most common infection is viral, and the most dangerous one is bacterial. Because when bacteria are passing urine, the common cause remains bacteria, and most often bacteria come from the body, and so the infection gets cured with antibiotics. Both of them are related to bacterial or viral infection. If they remain in the body for longer periods, then they can survive till they get healed. For more information consult an internal medicine physician online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "How does chemotherapy work to kill cancer cells, and why does it also cause side effects like hair loss?",
+        "answer": "I can understand your concern about hair loss. What is your diet, weight and weight? How are you doing? Hope this helps. Regards. For more information consult an internal medicine physician online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "What is the purpose of inflammation in the body, and when does it become harmful?",
+        "answer": "Regards. For more information consult an internal medicine physician online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "Can you explain how vaccines train the immune system without causing the actual disease?",
+        "answer": "Based on your query, my opinion is as follows: For further information consult a general practitioner online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "What happens during a stroke, and why is immediate treatment so critical?",
+        "answer": "I have read your concern. You are going through a stroke in your case, and I would recommend you get a CT scan done to check the extent of stroke recovery. As it is a simple stroke and the extenty of inflammation can be more likely. So I suggest you get your blood levels checked, which may help to assess the severity and the adequate time of recovery would be in a lot. Hope this helps.",
+        "temperature": 1.0
+      },
+      {
+        "question": "How do statins lower cholesterol levels, and what are the potential side effects?",
+        "answer": "From your description, it seems that you have an excessive cholesterol levels at a high rate called lipoma. Some people have been treated by statins without any treatment. These can cause high cholesterol, and other side effects are seen as a side effect, but in the medical age group cholesterol is not too low. However, there are many things that can affect the cholesterol. The most common cause is high lipid profile and high blood pressure. Hence, it is a very common side effect. Also, in medical practice, high LDL cholesterol may cause short-term complications, such as blood loss of blood vessels, obesity, diabetes, and hypertension. The side effects will be almost nil. You may start with tablet Sodium HbA1c once daily for two weeks whenever needed. I hope this helps.",
+        "temperature": 1.0
+      },
+      {
+        "question": "What is the difference between Type 1 and Type 2 diabetes in terms of causes and treatment?",
+        "answer": "These two kinds of diabetes are in a very common category. I would suggest you to get your blood sugar level checked. It should be ruled out by blood sugar. In a case of hypoglycemia, which is not treated, it can be treated as in case of diabetes mellitus. I suggest you take a blood sugar medication along with vitamin B12 levels if not required. Your blood sugar profile is in very very low range. For more information consult a diabetologist online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "Why do some people develop autoimmune diseases where their immune system attacks healthy cells?",
+        "answer": "As per your history and description, it seems like autoimmune diseases like an autoimmunity. In autoimmunization, immune system attacks the blood cells. There is no way to treat. Autoimmune disease occurs due to blood vessels, skin diseases, and viral infections like the autoimmuny syndrome. If not treated, then you can opt for autoimmuno therapy because the liver diseases are common in inflammatory response which prevents inflammation of the cells of the body and causes an increase in inflammation and the damage to the tissues. I suggest you start with tablet Neurobion 75 mg once a day for five days.",
+        "temperature": 1.0
+      },
+      {
+        "question": "How does chronic stress affect the body's organs and systems over time?",
+        "answer": "1. Chronic stress is a very common condition in most people. 2. It affects the organs in the body along with the body's functioning, especially the body’s system. This causes certain types of chronic stress. 3. This can lead to anxiety or stress-induced dementia. This can affect both the tissues and blood. 4. It is not related to your stress. 5. Chronic symptoms may damage the liver or system's blood vessels. Once you stop stress, you need to take anti-stress drugs to be started including anti-psychotics or antihypertensives. 6. There may be other possibilities to be it because of stress. If you develop any associated symptoms, you may need a thorough blood test or thyroid test as advised.",
+        "temperature": 1.0
+      },
+      {
+        "question": "What causes antibiotic resistance, and how can we prevent it from getting worse?",
+        "answer": "There are lots of ways to prevent antibiotic resistance. A single dose of antibiotic or capsules for one week is the best solution. The second cause is the fungal infection that leads to some infection, infection in which you develop infection with the use of antibiotics, it can be caused by various factors. When we stop infection and treat it, we will not need antibiotics. It is usually treated with antibacterial tablets until it has been treated. So, take medicines with an equal amount of antibiotic. You should take it in one dose.",
+        "temperature": 1.0
+      },
+      {
+        "question": "Can you explain what blood pressure numbers mean and what's considered a healthy range?",
+        "answer": "We are here to help you. If your blood pressure is high, then hemoglobin level is slightly high. So, your blood sugar levels are not healthy. You can get a serum electrolytes level done once and start tablet Cetirizine 5 mg once daily for five days. If you are diabetic, then the doctor will also consider it healthy, and then have the following medicines. It could be a different cause. If there is a doubt then get back to me.",
+        "temperature": 1.0
+      },
+      {
+        "question": "What is the placebo effect, and how powerful is it in medical treatments?",
+        "answer": "Hi, Welcome to icliniq.com. It is a topical steroid. This medicine is used for a long time. But it has a slight side effect. When you take placebo pills, the effect may increase if it is within a couple of weeks. It may require a prolonged course of medication. Take care.",
+        "temperature": 1.0
+      }
+    ],
+    "temp_1.3": [
+      {
+        "question": "What is the difference between a CT scan and an MRI, and when would a doctor choose one over the other?",
+        "answer": "The differences can be seen when two is needed. Then the other is left side which is left right. There is a variation in two-dimensional segment. Almost all the normal types of CT and CT are seen in the images. At this age, MRI might be the usual variant, for more than one. A few other studies show the contrast of various tumors like tumors during the primary phase of the vessel. CT is generally different in a rarely seen patient as a congenital congenital finding, which will rule out these structural causes and significantly alter the shape of an organ or brain that is normal. Before you choose one from a doctor, the CT scan is an option that is best option according to the quality of the brain. For further information consult a radiologist online -->",
+        "temperature": 1.3
+      },
+      {
+        "question": "Can you explain what hemoglobin A1c is and why it's important for monitoring diabetes?",
+        "answer": "However, your report is not necessarily showing no sign of increase in hemoglobin capacity (attachment removed to protect patient identity). It appears you have obtained hemoglobin abnormality as it is also high hemoglobin count and that is when you can start the tests. For more information consult an internal medicine physician online -->",
+        "temperature": 1.3
+      },
+      {
+        "question": "I've heard about the gut microbiome affecting mental health. Is there scientific evidence for this connection?",
+        "answer": "Revert back with the investigation reports to a microbiologist online -->",
+        "temperature": 1.3
+      },
+      {
+        "question": "What are the main differences between viral and bacterial infections, and why do antibiotics only work for one type?",
+        "answer": "You may have taken antibiotics for a few months before these infections. But there is a need for appropriate oral antibacterial treatment for infection. For more information consult an internal medicine physician online -->",
+        "temperature": 1.3
+      },
+      {
+        "question": "How does chemotherapy work to kill cancer cells, and why does it also cause side effects like hair loss?",
+        "answer": "Although there is limited work up of chemotherapy, lymphocyte count, they damage the skin causing hair loss. The result is good, but if the hair loss has been reduced, it is not an excellent idea to perform the chemotherapy and it will stop it. It is necessary to go ahead with the start of chemotherapies. Chemotherapy is generally treated with radiation and laser treatment. Treatment started for five years is better.",
+        "temperature": 1.3
+      },
+      {
+        "question": "What is the purpose of inflammation in the body, and when does it become harmful?",
+        "answer": "It is possible to be in an area where the skin starts to grow and grow like a fibrous mass, usually on some days. For further information consult an internal medicine physician online -->",
+        "temperature": 1.3
+      },
+      {
+        "question": "Can you explain how vaccines train the immune system without causing the actual disease?",
+        "answer": "You can provide us the details to me better and understand your concerns. Let me tell you that vaccines in different types are unlikely in persons of all these types. For further information consult a general practitioner online -->",
+        "temperature": 1.3
+      },
+      {
+        "question": "What happens during a stroke, and why is immediate treatment so critical?",
+        "answer": "It appears when some people do have a stroke. The chance of heart rate decreases and some get tired for three weeks, however if there is no response in immediate, then we may need to repeat surgery repeat after three consecutive days, or after two days if there are no issues. Do you suffer from heartburn, chronic lung disease like fever, diabetes, and stroke? If yes, when did the last dose get down?",
+        "temperature": 1.3
+      },
+      {
+        "question": "How do statins lower cholesterol levels, and what are the potential side effects?",
+        "answer": "I went through your query, and it is difficult to comment but in case you have been sexually active (not just before you are having some physical issue)? Yes, there is no good part of it. Take one hour sleep and if it is not going to stop or give us something back, take tablet Atorvastatin. But the effect is due to different problems and symptoms. The side effects are very low and otherwise, statins do not have side effects too much as others. In such a scenario there are many ways to get better. You might have had a lot of stress, smoking and smoking, exposure to alcohol in the past (with more chances of heart attack which include excessive intake of alcohol in cigarettes, and stress that may cause heart harms. In other words, increase your intake as much as possible with tablet Acorplatin 500 mg once daily. This should be replaced by it after seeing if you have any medical complications, and you would have some pain, uncomfortable, dry and uncomfortable sleep. Try to monitor your body temperature. Try these measures. Apply on your back up on your left side, for a week or two for seven days and go for lipid profile which can be detected in the physician as well.",
+        "temperature": 1.3
+      },
+      {
+        "question": "What is the difference between Type 1 and Type 2 diabetes in terms of causes and treatment?",
+        "answer": "Revert back with the reports to an internal medicine physician online -->",
+        "temperature": 1.3
+      },
+      {
+        "question": "Why do some people develop autoimmune diseases where their immune system attacks healthy cells?",
+        "answer": "You may develop these autoimmune diseases in most cases where one develops autoimmunized diseases that is autoimmunism. When the symptoms occur on screen or on phone or by mobile then people develop autoimmuny diseases also. This can happen in many young people. Your skin is affected by many of the antibodies that weaken our brain in which cells attack our brain because they are immune-activated virus. According to the history, mostly a person has it undergone in the past because of the infection as their immune system is also fighting for the immune organs. Your immune mechanisms increased to immunity in a small extent, in turn, it may easily heal out the antigen and can worsen disease. So there are certain specific tests that you can perform. As a routine test is found on radiograph, one will look for any allergies due to the same.",
+        "temperature": 1.3
+      },
+      {
+        "question": "How does chronic stress affect the body's organs and systems over time?",
+        "answer": "Chronic stress is a stress-induced phobia in the body. It can affect the organs to manage chronic stress. Other ails are a brain disease that will cause trouble. You need not worry. There are many people who do such stress related situations that also lead to stress-related disorders when stress becomes triggered by the stressor in body. The other thing is that because of stress, you will not have to worry about what happens. Sometimes, stress or stress can also affect the body health and life. Stress can be due to excessive oxygenation in organs, other symptoms like thyroid, or depression. Once more physical signs are present, it reduces your immunity as well. Reduce stress. Start taking Vitamin E supplements (Vitamin B and vitamin E) and start taking the medicines regularly.",
+        "temperature": 1.3
+      },
+      {
+        "question": "What causes antibiotic resistance, and how can we prevent it from getting worse?",
+        "answer": "For further information consult an ayurveda specialist online -->",
+        "temperature": 1.3
+      },
+      {
+        "question": "Can you explain what blood pressure numbers mean and what's considered a healthy range?",
+        "answer": "For further information consult a family physician online -->",
+        "temperature": 1.3
+      },
+      {
+        "question": "What is the placebo effect, and how powerful is it in medical treatments?",
+        "answer": "Firstly, let me tell you the details about the causes to the injection like anti-TPO. Another thing is because it is very important to get evaluated for how effective it is and how to reduce the effectiveness. So, to prevent you from taking surgery, he will decide whether to start an antidepressant for a month. But, when it will help you complete your cure of these agents. Avoid putting on an additional side effect while on the second stage, and because that goes on and we decide how to be on using these medicines. Do you have any fever and burning feeling in the throat or head or joints? Whenever you are in the stage to give antibiotic immediately, then stop using them and start medicines after evaluation. I hope this helps.",
+        "temperature": 1.3
+      }
+    ]
+  },
+  "baseline_lora": {
+    "temp_0.7": [
+      {
+        "question": "What is the difference between a CT scan and an MRI, and when would a doctor choose one over the other?",
+        "answer": "I have seen your query. MRI scan is a very good combination of CT scan and CT scan. The MRI is very common in the upper and middle part of the CT scan, and the CT scans are very simple. It is relatively common in CT scan to be a CT scan which looks like a blood test and MRI. It does not help in the diagnosis of the difference. The CT scan is the best cause of the MRI and aMRI. But, MRI looks very different when the CT scanned is given and it is not a common choice. For further information consult an internal medicine physician online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "Can you explain what hemoglobin A1c is and why it's important for monitoring diabetes?",
+        "answer": "You can have a very good blood sugar test and a blood count in blood levels. It is a good thing to have hemoglobin A1c (hemoglobin A1+) hemoglobin levels (hemoglobin a1c) levels to know what is hemoglobin. The hemoglobin is very low, and the blood count is high. Also, you can use a tablet Glucose (Glucose) phosphate phosphate and potassium. For more information consult an internal medicine physician online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "I've heard about the gut microbiome affecting mental health. Is there scientific evidence for this connection?",
+        "answer": "I have read your query. I have gone through your reports (attachment removed to protect patient identity). It is a good idea that you have a gut microbiome. For further information consult a psychiatrist online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "What are the main differences between viral and bacterial infections, and why do antibiotics only work for one type?",
+        "answer": "I have gone through your query and the reports (attachment removed to protect patient identity). The antibiotics are not very good and they are resistant to bacterial infections. They are usually a combination of viral and bacterial. These are very important to understand the infection. When the bacterial or viral infection, the bacterias unfortunately are not the cause of the virus. The viral bacteria and bacterials are a common type of bacterial virus. However, the antibiotics themselves are not effective and the viruss would be better. There are many possibilities of antibiotics, but they cannot be taken because the virus is very common and bacteria often are associated with viral diseases. Also, these are bacteria who are treated against viral chemicals, which are not common. It is a general difference in viral tissues. So, it is essential to understand these infection and it is the most common infection which can be associated to viral exposure. But, if you have infection or infection you can use antibiotics for a lot of time. You can use anti-inflammatory medicines to prevent infection in the first two months, it can be used for two months. I would recommend you to use antibiotic tablets, and use a different combination. You should use antibiotic as well as a drug. Before you start with antibiotics then you can get a antibiotic tested against the virus, and avoid infection with the drugs.",
+        "temperature": 0.7
+      },
+      {
+        "question": "How does chemotherapy work to kill cancer cells, and why does it also cause side effects like hair loss?",
+        "answer": "For further information consult a cancer medicine physician online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "What is the purpose of inflammation in the body, and when does it become harmful?",
+        "answer": "I have seen the images of the complaints. There are two things to do. The second is the inflammation of the body. The next is the blood glucose. It is an inflammation that is called inflammation. The last thing is the problem of inflammation in the body, and inflammation can be called an inflammatory inflammation which can be due to inflammation and infections. The cause of inflammatories is a cause that causes inflammation, which is associated with inflammation to cause inflammations. It can be caused by inflammation at the beginning of the day. The first thing to do is that it could be a biological cause and cause it. The other thing is inflammation is infection. Then it can be the result of infection which cause the infection of the skin. Also, if the cause is severe, then it can cause an infection in the tissues of the patient, and also the following symptoms can be identified:",
+        "temperature": 0.7
+      },
+      {
+        "question": "Can you explain how vaccines train the immune system without causing the actual disease?",
+        "answer": "I have gone through your query and would like you to know that you are having a healthy immune system, and that you can understand your problem. For further information consult a general medicine physician online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "What happens during a stroke, and why is immediate treatment so critical?",
+        "answer": "The stroke is a medical condition which is very common in the world. I would like to know that if you are taking the medication, then you can get a prescription for a specialist and a neuropathologist. If you have a neurologist or a psychiatrist, then I might have to choose the following medicines:",
+        "temperature": 0.7
+      },
+      {
+        "question": "How do statins lower cholesterol levels, and what are the potential side effects?",
+        "answer": "For further information consult an internal medicine physician online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "What is the difference between Type 1 and Type 2 diabetes in terms of causes and treatment?",
+        "answer": "For further information consult a diabetes specialist online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "Why do some people develop autoimmune diseases where their immune system attacks healthy cells?",
+        "answer": "For further information consult an internal medicine physician online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "How does chronic stress affect the body's organs and systems over time?",
+        "answer": "For further information consult a general practitioner online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "What causes antibiotic resistance, and how can we prevent it from getting worse?",
+        "answer": "I have seen the reports (attachment removed to protect patient identity). It is a severe infection of the bacterial infection. When antibiotic resistance rises, antibiotics can be treated with antibiotics. For more information consult an internal medicine physician online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "Can you explain what blood pressure numbers mean and what's considered a healthy range?",
+        "answer": "If you have any doubts, I would like to know that you have a very good health of your bodies. For more information consult a hematologist online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "What is the placebo effect, and how powerful is it in medical treatments?",
+        "answer": "The medication is very low in the dose and it is a very important treatment. There is no medication or medications that can be used for these medication. The usual treatment is usually given when the treatment is not approved. Also, the medication needs to be taken according to the criteria and procedures. If the pills are given, then the therapy can be given for a couple of months. If there is nothing to worry about is called a \"erection\" which is taken on the upper limb, then it is better to avoid the treatment. If you are a patient, then you can take a supplement.",
+        "temperature": 0.7
+      }
+    ],
+    "temp_1.0": [
+      {
+        "question": "What is the difference between a CT scan and an MRI, and when would a doctor choose one over the other?",
+        "answer": "ECG scans with multiple parameters are needed. In an CT scan and CT scan, there are two types of CT scan in a different way: The second is the combination of CT Scan and MRI. The second ones are multiple and are different where you have to go for them during various days. First, the second is MRI (radiology called CT) scan. Second, the other is a small size (the second is only a partial dimension). The second size is equivalent to CT scan with a scan. And, the next dose of CT is limited. It will be taken in five months. This combination is called MRI scan, if there is another risk to this, the remaining possibility is more likely to be a complete comparison. Usually, there is no further chance of missing CT scan (not to be seen in the real time). This is the result of a CT scan. So, while a full resolution is to get a first scan of CT-scan. To be certain, there should be various options for diagnosis, which can be developed. For more information consult a neurologist online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "Can you explain what hemoglobin A1c is and why it's important for monitoring diabetes?",
+        "answer": "I have gone through your history and would like you to know that your hemoglobin A1c would be good to know what is there to be in the healthy weight of the hemoglobin. We are concerned about the risk of diabetes. For more information consult an internal medicine physician online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "I've heard about the gut microbiome affecting mental health. Is there scientific evidence for this connection?",
+        "answer": "The cause of this is defective inflammatory bacteria, which may be due to immune deficiencies. You can use tablet Acepam (Carbenicillin and Paracetamol) with 2 mg of twice daily for 24 hours. For more information consult a neurologist online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "What are the main differences between viral and bacterial infections, and why do antibiotics only work for one type?",
+        "answer": "I read your query, but what they will say when we are going to have antibiotics. It is a natural cause of bacterial infections. Once you are infected, the drugs will help you recover within 5 to 10 days. For more information consult a general medicine physician online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "How does chemotherapy work to kill cancer cells, and why does it also cause side effects like hair loss?",
+        "answer": "For further information consult a dermatologist online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "What is the purpose of inflammation in the body, and when does it become harmful?",
+        "answer": "For more information consult an internal medicine physician online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "Can you explain how vaccines train the immune system without causing the actual disease?",
+        "answer": "I have gone through your query with a dermatologist. I would like to know your allergy. So, I advise you to take an intravenous ultrasound of the immune system and have it given in the patient. We will explain all your symptoms, and will get the viruss immune deficiency and immunity level. And, if the virus is not healthy and can get your immunity tested, the immunes should take immune responses along with antibiotics and to understand the characteristics that you have. So simply do not worry.",
+        "temperature": 1.0
+      },
+      {
+        "question": "What happens during a stroke, and why is immediate treatment so critical?",
+        "answer": "For more information consult an internal medicine physician online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "How do statins lower cholesterol levels, and what are the potential side effects?",
+        "answer": "For further information consult a nutritionist online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "What is the difference between Type 1 and Type 2 diabetes in terms of causes and treatment?",
+        "answer": "The type 1 diabetes is one of the commonly treated diabetes. The cause of diabetes is a diabetes associated with a blood sugar. As one could be the cause between these two. However,, I would like to know what to be called diabetes.",
+        "temperature": 1.0
+      },
+      {
+        "question": "Why do some people develop autoimmune diseases where their immune system attacks healthy cells?",
+        "answer": "The diagnosis for autoimmune disease is also based on the age and the risk of autoimmunity. For more information consult a family physician online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "How does chronic stress affect the body's organs and systems over time?",
+        "answer": "I have gone through the reports (attachment removed to protect patient identity). If you do not have any complaints then your doctor does not know what happened in your stomach. So, try to make sure that the body is fine and strong, if these things affected the body’s immune system. There are three types of stress, like anxiety or a depression. For more information consult an internal medicine physician online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "What causes antibiotic resistance, and how can we prevent it from getting worse?",
+        "answer": "The infection can be seen without antibiotics and causes many other antibiotics. Because of antibiotics, antibiotics can also affect its use. However, you can use antibiotics for a day. It will help in preventing the infections. You can use a different antibiotic combinations.",
+        "temperature": 1.0
+      },
+      {
+        "question": "Can you explain what blood pressure numbers mean and what's considered a healthy range?",
+        "answer": "If having the blood pressure numbers were between 100 and 300 cm, then there is a known low blood pressure. It would be more than 30 minutes. As you cannot know the blood levels of lymphocyte node, it will also increase in the blood flow index in the body in the morning, you can avoid a weight loss. I would like to know this about the causes of blood pressure (blood pressure) which is negative, why blood pressure is too low. It will help you avoid the surgery, and the following exercises are better to have to go for any surgical exercise.",
+        "temperature": 1.0
+      },
+      {
+        "question": "What is the placebo effect, and how powerful is it in medical treatments?",
+        "answer": "For further information consult an internal medicine physician online -->",
+        "temperature": 1.0
+      }
+    ],
+    "temp_1.3": [
+      {
+        "question": "What is the difference between a CT scan and an MRI, and when would a doctor choose one over the other?",
+        "answer": "For further information consult an internal medicine physician online -->",
+        "temperature": 1.3
+      },
+      {
+        "question": "Can you explain what hemoglobin A1c is and why it's important for monitoring diabetes?",
+        "answer": "If you have been on diabetes with diabetes you need to have a diagnosis or test for the hemoglobin A1c (angiopathy), it will cause a high blood count of the uterus, but glucose in blood level should be controled or in the healthy body where you need control from. But there is still some symptoms that are in this period. You should take some drug in the presence of blood concentration. There is the chance to have it, but what is the importance of hemoglobin increase and reduce your glucosy gain. Your diabetes should be treated after four weeks before diagnosis does not have to be prevented by this type of blood load. This and to control weight and loss. So this could have to come in for treatment for diabetes. So to take it more than five days. I would advise you have to take all the treatment with the help of these tests like an immunohematologist or a cardiotherologist.",
+        "temperature": 1.3
+      },
+      {
+        "question": "I've heard about the gut microbiome affecting mental health. Is there scientific evidence for this connection?",
+        "answer": "I read your query and understand your concern. It is very good that you can read with the current investigation, I am ready to get your information and you should be informed about the causation. I will be happy to provide you some further details. We are not concerned about the affecting human health and what is the cause of cancer? If you need more questions, see your hospitals or hospital counseling further? So you can go for an epidemiologic review for an internal medicine for example. I am not to mention if the disease levels are weak and they may be affected by infection and disease. I have never considered any other treatment. For more information consult a psychiatrist online -->",
+        "temperature": 1.3
+      },
+      {
+        "question": "What are the main differences between viral and bacterial infections, and why do antibiotics only work for one type?",
+        "answer": "The two best treatment is that the bacterial (reactive substances) also contain bacteria. The only advantage is viral destruction and no such risk would have always been on for vaccinations. I think you need a combination of different types of antibiotics. Also, a second option i.e., you need antibiotics on the basis of bacteria as a natural antibiotic, in it for sure is more than 10 minutes for preventable and easy treatment.",
+        "temperature": 1.3
+      },
+      {
+        "question": "How does chemotherapy work to kill cancer cells, and why does it also cause side effects like hair loss?",
+        "answer": "For more information consult a cancer specialist online -->",
+        "temperature": 1.3
+      },
+      {
+        "question": "What is the purpose of inflammation in the body, and when does it become harmful?",
+        "answer": "Your case, can be seen in various laboratories or clinical results of the blood-borne cancer?",
+        "temperature": 1.3
+      },
+      {
+        "question": "Can you explain how vaccines train the immune system without causing the actual disease?",
+        "answer": "It is good to learn the advantage of vaccines like Vitamin C, including a antihistaminic medications. It is effective when getting immune. If the immunity is not maintained in your skin, it is not sure that your immune system is unstable. In these cases, we need to tell you more about your immunes. The virus may affect the immune damage and damage. Regards. For more information consult a healthcare specialist online -->",
+        "temperature": 1.3
+      },
+      {
+        "question": "What happens during a stroke, and why is immediate treatment so critical?",
+        "answer": "Do not worry about the stroke and stroke following. Nothing is needed to get back if needed.",
+        "temperature": 1.3
+      },
+      {
+        "question": "How do statins lower cholesterol levels, and what are the potential side effects?",
+        "answer": "I have seen your query. (attachment removed to protect patient identity). There are three kinds of antioxidant effect in the life-cycle, such as a carb supplement. The lipid body is reduced to 5% or 4%. It also can get a body cleanse, instead of keeping the rest of the diet. For further information consult a paediatrician online -->",
+        "temperature": 1.3
+      },
+      {
+        "question": "What is the difference between Type 1 and Type 2 diabetes in terms of causes and treatment?",
+        "answer": "Conclusion: Diagnosis is a different case of age adaptation of diabetes according to diabetes type 2. I suggest taking plenty of tablets or more than three meals. Follow the follow up for a further revision and make up the differences. Sidney stones can take the drugs which you used for insulin consumption, vitamin B12, and food intake and liver calcium, and other blood sugar levels. Clinical symptoms are sometimes expected early and therefore the level of the symptoms is different according which have an overview that cannot be achieved. For more information consult a health care surgeon online -->",
+        "temperature": 1.3
+      },
+      {
+        "question": "Why do some people develop autoimmune diseases where their immune system attacks healthy cells?",
+        "answer": "Among those disease, cough disease can happen but only when you have not immune system and there are no symptoms. Very a good medicine that helps you avoid stress. But if your immunity is serious or severe changes in its moods cannot be diagnosed. With recent information, it can give sensitivity to healthy cells. Do not get it as any unprotected or immune immune response. You need any anti-inflammatory medications as a test that can be taken with all kinds of alcohol. In case of inflammation, in your case, have nothing to worry about against all.",
+        "temperature": 1.3
+      },
+      {
+        "question": "How does chronic stress affect the body's organs and systems over time?",
+        "answer": "The symptoms may be caused by chronic stress as a result. So, you can discuss that we do it at some times.",
+        "temperature": 1.3
+      },
+      {
+        "question": "What causes antibiotic resistance, and how can we prevent it from getting worse?",
+        "answer": "Up to you earlier, you have to consult an environmental health specialist online -->",
+        "temperature": 1.3
+      },
+      {
+        "question": "Can you explain what blood pressure numbers mean and what's considered a healthy range?",
+        "answer": "I have gone through your history and can understand how much is you having. Anything is nice along with medication or medication. But this makes you be worsening as you feel a good way. But also it appears that every pill you got in tested is very common in people with lower blood pressure. I am not sure. For further information consult a physiotherapist online -->",
+        "temperature": 1.3
+      },
+      {
+        "question": "What is the placebo effect, and how powerful is it in medical treatments?",
+        "answer": "For further information consult a medical oncologist online -->",
+        "temperature": 1.3
+      }
+    ]
+  },
+  "gs_1": {
+    "temp_0.7": [
+      {
+        "question": "What is the difference between a CT scan and an MRI, and when would a doctor choose one over the other?",
+        "answer": "The CT scan is a MRI scan and MRI, which is not a CT scan, and is not an MRI. The MRI is essentially a diagnostic scan, so that MRI does not indicate a diagnosis of a medical problem. It is always a common combination of CT scan and CT scan with MRI and CT Scan. The CT Scan is often a scan for MRI (MRI MRI) and CT, but the CT scan can be a single scan. So, it is necessary to check the MRI of the abdomen and the appendix of the CT. It doesnot have any problem. If the CT is accurate then the scanner should be taken for a couple of weeks. If it is not valid, then it is best to make it a good CT scan. Then the CT scans would be better. The rest of the scan can also be reviewed when you need to do MRIs. I hope this helps.",
+        "temperature": 0.7
+      },
+      {
+        "question": "Can you explain what hemoglobin A1c is and why it's important for monitoring diabetes?",
+        "answer": "I have gone through your query and would like you to know that you are not taking a suitable diet. But if you have any doubts then you can make a statement about the hemoglobin levels. The hemoglobin is a blood sugar hormone, which is essential for the healthy lifestyle and in a lot of cases, you need to take a nutritional supplement which can be taken in various ways. I will advise you to follow up with your assessment. I can help you to understand the reasons for using a diabetes test and twice a day. For more information consult an internal medicine physician online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "I've heard about the gut microbiome affecting mental health. Is there scientific evidence for this connection?",
+        "answer": "For further information consult an internal medicine physician online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "What are the main differences between viral and bacterial infections, and why do antibiotics only work for one type?",
+        "answer": "Rational medicines are essentially related to viral infections. Also, you need to get a full overview of the infection. I would suggest you to do some antibiotics once a day and then you should get further investigations when you can start taking antibiotics. If there is no infection, then you can use antibiotics for a few days. If you have any other symptoms, then I advise you to apply antibiotics on the antibiotics and get these antibiotics off. For more information consult a general medicine physician online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "How does chemotherapy work to kill cancer cells, and why does it also cause side effects like hair loss?",
+        "answer": "I have gone through your query and would like you to know that the chemotherapy is a simple drug. The chemotherapy will help to suppress cancer. The following is known as a combination of chemotherapy and chemotherapy, but you can use a lot of chemotherapies to help suppress the cancer. I would suggest you use chloroquine and chlorophine injection. Also, you can take a chemotherapy with a regular dose of a dose of chemoradiotherapy. However, it does not cause a specific cause of inflammation without a long tail or a spine inflammation. If the chemotherapie is given, you may use the following medications. If there is further investigations, you should ask the endocrinologist.",
+        "temperature": 0.7
+      },
+      {
+        "question": "What is the purpose of inflammation in the body, and when does it become harmful?",
+        "answer": "Please see the following investigations. For further information consult a dermatologist online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "Can you explain how vaccines train the immune system without causing the actual disease?",
+        "answer": "I have gone through your query and can understand your concerns. For further information consult a neurologist online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "What happens during a stroke, and why is immediate treatment so critical?",
+        "answer": "<extra_id_0> stroke is a chronic disease, which is often a stressful process in the stroke. In the Stroke, you are treated with a high degree of surgical procedures. You need to take a blood test of MRI to verify the situation. In this case, you need to know what the treatment needs to be done. I hope this helps.",
+        "temperature": 0.7
+      },
+      {
+        "question": "How do statins lower cholesterol levels, and what are the potential side effects?",
+        "answer": "For further information consult an internal medicine physician online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "What is the difference between Type 1 and Type 2 diabetes in terms of causes and treatment?",
+        "answer": "For further information consult a diabetes specialist online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "Why do some people develop autoimmune diseases where their immune system attacks healthy cells?",
+        "answer": "For more information consult an internal medicine physician online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "How does chronic stress affect the body's organs and systems over time?",
+        "answer": "I understand your concern. Chronic stress is a common cause of chronic stress. It is very common for chronic diseases, so it can be due to chronic symptoms in the body and related to stress. So, you can have a medication for the chronic disease.",
+        "temperature": 0.7
+      },
+      {
+        "question": "What causes antibiotic resistance, and how can we prevent it from getting worse?",
+        "answer": "The causes of antibiotic resistance are known as antibiotic resistant resistance. I suggest you do the following: 1. Symptoms of infection levels are unknown in the general population. 2. In the cases of antibiotics, the symptoms are very common in a few countries. 3. Symptomatic infections are not known to be a virus, but it is a viral infection. 5. In the case of antibiotic, you need to use these medicines for avoiding antibiotics. 4. Avoid taking antibiotics because you are using antibiotics in certain countries. If antibiotic infection is unknown, then we can take antibiotics and avoid antibiotics with a wide range of antibiotic treatments. 3. Do a lot of antibiotic use to reduce antibiotics if necessary. 4. Another cause is the infection of a drug. 5. Avoid antibiotics of the liver and liver. 3. Stop antibiotics at night time.",
+        "temperature": 0.7
+      },
+      {
+        "question": "Can you explain what blood pressure numbers mean and what's considered a healthy range?",
+        "answer": "I have gone through your query and understand your concerns. For further information consult a neurologist online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "What is the placebo effect, and how powerful is it in medical treatments?",
+        "answer": "Welcome to icliniq.com. It is a very very important thing to take a vitamin D supplement with a lot of blood samples. The maximum amount of vitamin D is enhanced with the injections of the drugs. It can be a powerful drug and a good drug. However, a tablet twice daily is taken weekly for a week. The drug is given once a day, and is not a safe drug. The other drug is not the drug which can be used to treat the muscles and is very helpful in your health. It could be very difficult to be taken on the therapy. The best medication is medication. If you are taking the drug, then a blood vessel is essential for the treatment.",
+        "temperature": 0.7
+      }
+    ],
+    "temp_1.0": [
+      {
+        "question": "What is the difference between a CT scan and an MRI, and when would a doctor choose one over the other?",
+        "answer": "I have read your query, and you have gone through the investigation for a history of CT scan and CT scan images (attachment removed to protect patient identity). If there is any missing information, then it is impossible to find out that there are no changes. They should examine your CT scan likely to get a MRI scan. For more information consult an internal medicine physician online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "Can you explain what hemoglobin A1c is and why it's important for monitoring diabetes?",
+        "answer": "I have gone through your information and for your query you are having an ulceration biopsy. I can understand your concerns. For more information consult a cardiologist online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "I've heard about the gut microbiome affecting mental health. Is there scientific evidence for this connection?",
+        "answer": "As the virus is a cause of infection, it is called microbiome causes negative disorders. It is related to neuropathy and inflammation. It can affect mental health including depression, and it is less possible that your microbiome is sensitive to mental health. According to these findings, the microbiome may increase mental levels. It cause inflammation within the developing world. But this is not normal. If you do not have a disease, then you can avoid a good exercise and can reduce it as well. You can find out some history of the problems with a child or some child. Keep moving in the blood, food and a diet, having enough water to keep the healthy. Regarding mental health, I will suggest you take the same medicines and then apply this food foods after using a simple tablet twice a day a week. So, a lot of blood and blood donations are needed. As you are having disease, you may take medications including medication and antibiotics.",
+        "temperature": 1.0
+      },
+      {
+        "question": "What are the main differences between viral and bacterial infections, and why do antibiotics only work for one type?",
+        "answer": "For further information consult a hematologist online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "How does chemotherapy work to kill cancer cells, and why does it also cause side effects like hair loss?",
+        "answer": "I understand your concern. I have not noticed any chemical tumors, but there are some possible symptoms like thrombosis. For further information consult a medical otolaryngologist online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "What is the purpose of inflammation in the body, and when does it become harmful?",
+        "answer": "This symptoms can be associated with the inflammation. In the normal human tissue of inflammation cases you have the following: For more information consult an internal medicine physician online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "Can you explain how vaccines train the immune system without causing the actual disease?",
+        "answer": "Rare vaccines which may help you getting immune infection as well and even if you have an infection.",
+        "temperature": 1.0
+      },
+      {
+        "question": "What happens during a stroke, and why is immediate treatment so critical?",
+        "answer": "<extra_id_0>, is there a common stroke, and it is only a second stroke of the first stage of stroke. Also, if there is no significant stroke in the hospital, the stroke is due to chronic stroke and also related strokes, that causes high blood pressure and the decrease in blood pressure in the stomach. If your stroke has reached down and we know that there is a need to be reminder the treatment because it will be very complicated. Regarding the cause of this stroke medication, it is needed to discuss with a psychiatrist and the ambulance. Again, do not worry. If a stroke occurs, you can do it immediately.",
+        "temperature": 1.0
+      },
+      {
+        "question": "How do statins lower cholesterol levels, and what are the potential side effects?",
+        "answer": "Today, there are many options you have taken for it. Both the benefit and benefit of the treatment provided by these medications have been indicated by this. The chances of getting sick without the consent of the doctor are high. The cholesterol levels can be high and there are no further risk for any flareups of stomach-related disease, that cannot be indicated. If the symptoms are low, then the risk of treatment can be increased without any further consultation. There is a very good benefit of your cholesterol level that you can also find out if you have any other symptoms including heart problems, and you will have to decide if statins are healthy. So you should not have any any drugs that help in the disease. Avoid any surgical procedures or medicines.",
+        "temperature": 1.0
+      },
+      {
+        "question": "What is the difference between Type 1 and Type 2 diabetes in terms of causes and treatment?",
+        "answer": "<extra_id_0> type 2 diabetes is a very common disease and in most of the countries the causes are that because of the amount of blood sugar in the disease, and sometimes the treatment becomes more restricted. In that case, it is better to wait for the investigation to assess your pathologic disease which is more often referred as type 2 Diabetes. In case of type 2 diabetic, it means that you have an insulin-resistant type 2 to three months during emergency day with the following: If you have diabetes, there is more reasons to get the medicines as to what is the maximum degree of ingestion and avoiding insulin in its liver. If there is any additional disease in the heart, it should adjust for the current status. As for your case, if the blood sugar is less then the treatment will be very good. If this is not the case then everybody can be treated. But I hope this helps.",
+        "temperature": 1.0
+      },
+      {
+        "question": "Why do some people develop autoimmune diseases where their immune system attacks healthy cells?",
+        "answer": "Up to two years the body has some severe lymph edema where it can be associated with multiple lymphocytes. The symptoms are mostly immune atrophy and in some conditions it means you are in healthy cells in the early days of birth and there is no clinical damage to the immune system which is causing autoimmune diseases. This is also related to the decrease of lymphatic inflammation. However, you need to give early testing. For more information consult an internal medicine physician online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "How does chronic stress affect the body's organs and systems over time?",
+        "answer": "Rough and throat pain is a normal symptom, so does chronic stress. They often happen when the cause of stress affects the body's metabolism and affects your hormones. For more information consult a neurolaryngologist online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "What causes antibiotic resistance, and how can we prevent it from getting worse?",
+        "answer": "This is an antibiotic. I have been asking you about the specific pathogenetic causes. For more information consult a paediatrician online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "Can you explain what blood pressure numbers mean and what's considered a healthy range?",
+        "answer": "Our reports are correct. The blood pressure levels of blood pressure are normal. What you have said are called blood pressure?",
+        "temperature": 1.0
+      },
+      {
+        "question": "What is the placebo effect, and how powerful is it in medical treatments?",
+        "answer": "The treatment has been taken for two days, two months and three weeks of medical treatment. Because of this, you usually take a lot of medications. You are very good to see a medicine that can be made in oral foods and taken in food. It is helpful to watch the stomach which is already called renal function therapy. This would be an excellent solution for anxiety. For further information consult a medical physician online -->",
+        "temperature": 1.0
+      }
+    ],
+    "temp_1.3": [
+      {
+        "question": "What is the difference between a CT scan and an MRI, and when would a doctor choose one over the other?",
+        "answer": "I assume that the MRI is just one MRI scan and one scanner that takes five to five years to have the scan, and there are few choices of CT scan changes. Each scan has 2 times different radiation rate for two to three minutes. Two MRIs when done, you should not take a MRI and the CT scan. One MRI can actually be to see the cerebral arteries with scan and MRI will be at different stage. And MRI, as it will be seen then take scan, MRI screenings to rule out CT scan and cognitive examinations. Another possibility is that you do not need to be comprehensive at the same time so that you decide if your CT scan works and it is better to scan. It will be acceptable to check the CT transcript before you do the scan as it would not work because of it. In your opinion, you need you simply check one, and you should actually get your scan done in a normal way. If your scan becomes effective, then you should look into two different MRI. It has two different effects if one can be unprotected. I will say that you have some chances of different results in multiple MRI (magnetic resonance imaging technique) and sometimes we must go off them between three times your CT, and to get the CT.",
+        "temperature": 1.3
+      },
+      {
+        "question": "Can you explain what hemoglobin A1c is and why it's important for monitoring diabetes?",
+        "answer": "I have seen the pictures (attachment removed to protect patient identity). As we are asked (attachment Removed to protect patients), you are not having symptoms of a bladder abdominal or pancreatitis. I think you are going to avoid the blood sugar, because I feel you have difficulty in control while we are dehydrating. But what are the other things in hemoglobin (I will not mention that? What is the level and it is likely that it is a poor physical absorption that should be realized with more control, a blood sugar is less frequent. It is not adequate for the pulmonary airways (such those that have cholesterol, liver issues, and hypertension, if you decide it was on to rule out any other diseases), which is in need to change your blood level. Now, if diabetes does have more blood sugars, I would like to provide that we can go for an alternative diet for diabetes. The only need you do not have to go cause you will need to look at that one of the things which you have advised is having a combination of blood sugar level for the diet or medicine. A simple alternative is to get diabetes symptoms.",
+        "temperature": 1.3
+      },
+      {
+        "question": "I've heard about the gut microbiome affecting mental health. Is there scientific evidence for this connection?",
+        "answer": "My brain immune system for autism is one thing to worry and will need to go to normal mental health. In your case, any disease in the life could not come from the first place. And, some people feel to use their DNA (blood closter). Use these markers (almost enough) or anything else in the future.",
+        "temperature": 1.3
+      },
+      {
+        "question": "What are the main differences between viral and bacterial infections, and why do antibiotics only work for one type?",
+        "answer": "Ophthalmology is the difference in the bacterial symptoms and virus like viral viruss or parasites. Here is the very different. The virus is not immunis (proteinase-suppressant) that can protect the patient from viral infection. This is an antibiotic. Antibakterial medicine can ensure that bacteria should have positive outcomes in bacterial or infectious infection in your system of use. Regarding your symptoms, you can take either vaginal, or vaginal infection as a solution for all the symptoms. Otherwise, take antibiotic for inflammation. Prevent viral hepatitis by antibiotics. Avoid prescription of amoxicillin or blood transfusion or take certain medicines like CBC to find further findings. For more information consult an infectious disease specialist online -->",
+        "temperature": 1.3
+      },
+      {
+        "question": "How does chemotherapy work to kill cancer cells, and why does it also cause side effects like hair loss?",
+        "answer": "Continue medications if needed.",
+        "temperature": 1.3
+      },
+      {
+        "question": "What is the purpose of inflammation in the body, and when does it become harmful?",
+        "answer": "I have gone through your case for the details: 1) What causes the pain is for any cause? 2) However, which means it makes better with an immune system, etc. It is best to go back again. In other case, for you, you may take antihistamines like blood sugar, salty and milk products.",
+        "temperature": 1.3
+      },
+      {
+        "question": "Can you explain how vaccines train the immune system without causing the actual disease?",
+        "answer": "This is some of the best method of vaccination (vaccination for a second patient). Anyway, the most common symptom is tuberculosis associated to blood loss and blood clotting problems. The explanation for the symptoms might arise due to virus in a single year during the current cycle of human microbiota for many times without the medical report. You will have to go through all the details of the disease and get more information explained with the appropriate treatments given. In case your immune system are more active and have more activity, we need to understand if there are any symptoms there are more possible diseases which will be diagnosed. This is good idea and we should do surgical test, even if there is no other problem as soon as possible. Do take two more things to go over one year for your routine tests and you can consult a nutritionist for better or more information. These have be a reasonable problem, in the history of infection may we do not have any problem. For further information consult an immunologist online -->",
+        "temperature": 1.3
+      },
+      {
+        "question": "What happens during a stroke, and why is immediate treatment so critical?",
+        "answer": "Referral. In my opinion, my heart disease is acute, though of heart attack takes a time to go for thrombosis, a stroke, pneumonia, bladder, retraumatizing and brain-related symptoms like respiration, hypertension, anemia, and abdominal fracture (swelling) that occurs during the heart stroke. I believe, your patients were not sure to have anything dangerous, having an emotional transition with a heart attack with stroke as such. And in most people, you should take more of the following medications: I wish to discuss your treatment further.",
+        "temperature": 1.3
+      },
+      {
+        "question": "How do statins lower cholesterol levels, and what are the potential side effects?",
+        "answer": "VIRAL BHIOLOGY) requires medicines for lower risk of cholesterol lowering. There is some symptoms or symptoms of the metabolic crisis in this form, when in your normal age, usually the heart affects your heart, and also your stroke? Do you know what is that you don't feel better at time of your life? What is it due to higher heart level? The health aspect for you are considering would be: 1. Increase of blood count with your family food. 2. Lower body weight level at home and with food. 3. Eat regularly, eat regularly and eat a regular meal and follow a diet plan. 1. If this causes you uncertain cause of low cholesterol, it may occur if the following symptoms get a high heart rate, and then it helps for better health. 5. I hope you have more help.",
+        "temperature": 1.3
+      },
+      {
+        "question": "What is the difference between Type 1 and Type 2 diabetes in terms of causes and treatment?",
+        "answer": "If there is no blood test to assess or treat a normal causes. So, there are no different cause for diabetes. I need to take amoxicillin as there is high blood count between the two and the four as one. If you have not found blood count of the last one following days it is great. Now you need to go for this and the kind of blood count is most relevant. There is a good solution for getting your urine indication and treat your body.",
+        "temperature": 1.3
+      },
+      {
+        "question": "Why do some people develop autoimmune diseases where their immune system attacks healthy cells?",
+        "answer": "If you are following the description your own question that was similar to that you did a certain issue and your problem was to come up after you taking medicine. Now to speak again.",
+        "temperature": 1.3
+      },
+      {
+        "question": "How does chronic stress affect the body's organs and systems over time?",
+        "answer": "For further information consult a physical therapy Specialist online -->",
+        "temperature": 1.3
+      },
+      {
+        "question": "What causes antibiotic resistance, and how can we prevent it from getting worse?",
+        "answer": "And any other symptoms of alcohol resistance are a similar cause of dengue pain which can lead to any severe allergic swine. It is a rare anti-inflammatory disease and antibiotic resistance in many disease, but even lower-grade. I could like you to see in the photos further what is possible with a few months. It has no higher effect on antibacterial and even on alcohol pain. But can suggest any additional symptoms like an allergy or asthma or diabetes. I am aware of symptoms that you want to take an antidepressant for four hours, once you need medication. Also, if symptoms are too high and you can take anti-malarial diet to follow your medications. This drug looks like resistant bacteria and does not go back using this antibiotic and other drug. I hope the need is.",
+        "temperature": 1.3
+      },
+      {
+        "question": "Can you explain what blood pressure numbers mean and what's considered a healthy range?",
+        "answer": "For more information consult an internal medicine physician online -->",
+        "temperature": 1.3
+      },
+      {
+        "question": "What is the placebo effect, and how powerful is it in medical treatments?",
+        "answer": "If the body weight is going in this area, the weight needs to be put down and we know what would be causing your health needs and that will apply that substance that can degenerate a more organic life in the skin, as it is to be considered. While the estrogen is less that a high dosye, the effectiveness will be much less due to increased or low doses or low blood sugar and your metabolic production. But the drug increases from a single dose and is an effective drug when drug is taking the dose of food, and increased body fat. It should be prescribed while using steroids which are the most effective side effects. Take vitamin D, water intake, etc., of high blood fat and drinking fluids can be derived from their cause based on the hormone changes in a particular group of organs, and to help with a complete test of blood growth and blood pressure. Regarding treatment conditions, you will be treated with drugs accordingly. But as far as medical sensitivity of drugs, it can improve the process of the treatment with all the medications tested. We can see it below, I want to help you as we provide you some useful info regarding this and I like your query. So you may have your thoughts and not explain any other evidence. According to this information you may become aware of the effects of any medicine you take and it is easy to detect or test if it will give you the benefits of the medicines once following the instructions from the pharmacologist.",
+        "temperature": 1.3
+      }
+    ]
+  },
+  "gs_2": {
+    "temp_0.7": [
+      {
+        "question": "What is the difference between a CT scan and an MRI, and when would a doctor choose one over the other?",
+        "answer": "For further information consult a neurologist online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "Can you explain what hemoglobin A1c is and why it's important for monitoring diabetes?",
+        "answer": "I have gone through your query and understand your concerns. For more information consult a health specialist online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "I've heard about the gut microbiome affecting mental health. Is there scientific evidence for this connection?",
+        "answer": "I have gone through your query and understand your concern. I have heard your reports. For more information consult a psychiatrist online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "What are the main differences between viral and bacterial infections, and why do antibiotics only work for one type?",
+        "answer": "I understand your concerns. You have to understand the causes of the viruss. So, when you do not apply antibiotics, you have to avoid a combination of antibiotics. These antibiotics can be used as a solution for infections. If you are using antibiotics absolutely without a caution, because the virus is associated with virus, you can do a treatment like a biological infection. If the virus becomes viral infection, then it is a case of infection which does not help. Regards.",
+        "temperature": 0.7
+      },
+      {
+        "question": "How does chemotherapy work to kill cancer cells, and why does it also cause side effects like hair loss?",
+        "answer": "<extra_id_0> breast cells could be treated with chemotherapy. But it is a low risk. So, although chemotherapy does not help in making cancer cells to kill cancer  cell cells, it will also help in cancer growth. Also, it can help in your treatment.",
+        "temperature": 0.7
+      },
+      {
+        "question": "What is the purpose of inflammation in the body, and when does it become harmful?",
+        "answer": "I have gone through your query and understand your concerns. I have seen the results listed above. I will see the results of this investigation. The causes of inflammation in the body and the cause of infection is a simple inflammation. In the beginning, it might cause inflammation, which is especially when the body is inflammation is weak. The reason is that the body needs to avoid infections. The result is which cause its inflammation because it is very fragile and cause the body to have a healthy inflammation of the body. However, if the body has inflammation then it should be treated. The worst thing is that inflammation can be the first thing to stop inflammation as the body can be a normal inflammation and inflammation so that it can be removed. You can use a antiinflammatory cream and a vitamin D powder which will cause it. Also, if you are taking antibiotics which may cause an infection which can cause pain in the tissues. Please try to get a blood test to detect inflammation through the body, including blood vessels, and urine which should be used for inflammation to be taken in the morning. When inflammation has been treated, the first treatment is called inflammation or inflammation-induced inflammations. If the inflammation occurs, then a treatment is needed.",
+        "temperature": 0.7
+      },
+      {
+        "question": "Can you explain how vaccines train the immune system without causing the actual disease?",
+        "answer": "I have gone through your query. For more information consult a cardiologist online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "What happens during a stroke, and why is immediate treatment so critical?",
+        "answer": "<extra_id_0> it is a stroke, which is very serious. However, when stroke is chronic, then it will be a painless stroke and sometimes a death. Once the treatment is complete, these symptoms are significant. I would suggest a better appointment for the stroke. For more information consult a neurologist online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "How do statins lower cholesterol levels, and what are the potential side effects?",
+        "answer": "I have read your query. For further information consult a medical gastroenterologist online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "What is the difference between Type 1 and Type 2 diabetes in terms of causes and treatment?",
+        "answer": "I can understand your concern. Your concerns are given in this case and according to the causes of diabetes. Your cause is called Diabetes, and these two diabetes are a combination of diabetes and diabetes. I can help you to understand the comparison. I hope you have clarified the differences. If you have any doubts, then please discuss with you. If your diabetes is a diabetes, you can take it. If there is any further information, then I can give you a complete explanation of the diabetes and the reduction in diabetes in the healthy life. You can consult a gastroenterologist online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "Why do some people develop autoimmune diseases where their immune system attacks healthy cells?",
+        "answer": "I have gone through your query with a detailed diagnosis to protect the immune system. They are known to be a cancerous inflammation which causes severe disease. However, there is a number of types of infections that will lead to damage to the immunes. It does not cause any infection. But it is essential to do a simple treatment. I will suggest you get a prescribed treatment of these diseases. If the immunological damage is very severe, then you need to get their immune immune cells to get immune systems developed by using these methods. Also, you can have a more accurate treatment for these symptoms. You can get the diagnosis done with these medicines.",
+        "temperature": 0.7
+      },
+      {
+        "question": "How does chronic stress affect the body's organs and systems over time?",
+        "answer": "For further information consult a psychiatric and neurologist online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "What causes antibiotic resistance, and how can we prevent it from getting worse?",
+        "answer": "<extra_id_0> These cases are related to infection. For more information consult an internal medicine physician online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "Can you explain what blood pressure numbers mean and what's considered a healthy range?",
+        "answer": "I have gone through your query with a few query and explained that the values are absolutely a good thing. However, it is not a bad thing to do. You should do a blood pressure measurement and follow up with another blood pressure test which is a better way for you. For more information consult a medical cardiologist online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "What is the placebo effect, and how powerful is it in medical treatments?",
+        "answer": "For more information consult a neurologist online -->",
+        "temperature": 0.7
+      }
+    ],
+    "temp_1.0": [
+      {
+        "question": "What is the difference between a CT scan and an MRI, and when would a doctor choose one over the other?",
+        "answer": "I have seen the view of you and do not understand that there is no need for it. I would like to know that you have any trouble with MRI MRI of the heart.",
+        "temperature": 1.0
+      },
+      {
+        "question": "Can you explain what hemoglobin A1c is and why it's important for monitoring diabetes?",
+        "answer": "For more information consult a family physician online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "I've heard about the gut microbiome affecting mental health. Is there scientific evidence for this connection?",
+        "answer": "For further information consult a psychiatrist online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "What are the main differences between viral and bacterial infections, and why do antibiotics only work for one type?",
+        "answer": "To confirm your query, I would like to know that you have to do an antibiotic injection in the morning and a day and you will get antibiotics to help avoid the infection. But the essential features are: - Internal infections are primary immunological infection sickness and infection is primary. - In a case of viral infection, I have done some further analysis to make the possible choice. You can use antibiotics for infection as a combination of antibiotics although the same bacteria, can be produced by oral anti-virus infection and repeat antibiotics of one bottle or another bottle. These bacterias may be related to viral growth or microbial infection or even antibiotics. Also, you can try antibiotics only for bacterial diseases and those viruses may cause any symptoms within one weeks. For more information consult a general medicine physician online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "How does chemotherapy work to kill cancer cells, and why does it also cause side effects like hair loss?",
+        "answer": "<extra_id_0> Another reason to include chemotherapy or radiation to kill cancer. However, chemotherapy is not sufficient to kill disease and to remove it on the side of the skin. You can use these devices to reduce the chance of cancer. It may lead to cancer of other skin, which can occur whenever the cancer is affected by those cells. Avoid chemotherapy in this case, it will increase the level of chemotherapy. I hope you have more information to me.",
+        "temperature": 1.0
+      },
+      {
+        "question": "What is the purpose of inflammation in the body, and when does it become harmful?",
+        "answer": "If a symptom does not change, it does reduce the blood pressure and inflammation. If the tumor has a significant role, it can cause the tumor to cause its cause, then you can start getting a full infection and it becomes harmful.",
+        "temperature": 1.0
+      },
+      {
+        "question": "Can you explain how vaccines train the immune system without causing the actual disease?",
+        "answer": "For further information consult a pulmonologist online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "What happens during a stroke, and why is immediate treatment so critical?",
+        "answer": "<extra_id_0> i am giving your query and would like to know that if you are having stroke (stroke) very early and when you have stroke, these can be treated by doctors.",
+        "temperature": 1.0
+      },
+      {
+        "question": "How do statins lower cholesterol levels, and what are the potential side effects?",
+        "answer": "I have gone through your history and it is very helpful. I have read your concern and the answer is a general answer. For more information consult a cholesterol surgeon online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "What is the difference between Type 1 and Type 2 diabetes in terms of causes and treatment?",
+        "answer": "For further information consult an internal medicine physician online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "Why do some people develop autoimmune diseases where their immune system attacks healthy cells?",
+        "answer": "And here is another problem. I hope this helps.",
+        "temperature": 1.0
+      },
+      {
+        "question": "How does chronic stress affect the body's organs and systems over time?",
+        "answer": "Rogue Stress is associated with stress and stress. It is due to hormonal stress and chronic stress. In the normal, a stress problem has a high prevalence in the body and their body in the healthy lifestyle. The chronic Stress is caused by chronic inflammation, and increases absorption of the body during stress. Stress is some of the most important thing. There is a chance of chronic heart stress in the morning or morning. There are numerous causes of stress and it is also related to stress. These are related the system and cause of acute stress. If you have chronic problems, it is called stress. You can avoid stress and have a chronic relationship with medications. Please consider following advice:",
+        "temperature": 1.0
+      },
+      {
+        "question": "What causes antibiotic resistance, and how can we prevent it from getting worse?",
+        "answer": "<extra_id_0> your antibiotic resistance can cause the blood pressure in our respiratory system. When the antibiotic inflammation is out of the liver is already gone, it is almost impossible to worry. If the antibiotic is not taken and can be applied in a few months to prevent infection, you can take it by using antibiotics for better reasons. Avoid taking antibiotics and take them to prevent you from infection. Take antibiotics to avoid infections. Follow the following instructions for taking treatment. Also, it would be to take more medications and should be taken to adjust the medication. If any of your symptoms are still affected, you should get a blood pressure and a small dose of it. For more information consult an ENT otolaryngologist online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "Can you explain what blood pressure numbers mean and what's considered a healthy range?",
+        "answer": "I have gone through your query with detailed reports (attachment removed to protect patient identity). You can know what you are referring to: In regard to blood pressure, the range between a blood pressure and blood pressure is a normal dose of medication along with weight increase. For more information consult a cardiologist online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "What is the placebo effect, and how powerful is it in medical treatments?",
+        "answer": "If you are looking for a healthy therapy, it can be to be used for prevention and suppressing the liver damage arising due to clinical symptoms and arthritis disorders. I would suggest you consult a neuropathy clinic. Before you begin taking medicines, then you will need to follow this medicine. I hope you get help.",
+        "temperature": 1.0
+      }
+    ],
+    "temp_1.3": [
+      {
+        "question": "What is the difference between a CT scan and an MRI, and when would a doctor choose one over the other?",
+        "answer": "I have seen the CT scan and CT scan on CT scan. It is definitely necessary to see the diagnosis of CT scan, CT scan if that happens. The second point is that the CT is the two side of each side of the whole line of the line. The next point to it can be done is titanium paddle plate radiation in the system could be estimated. For further information consult an internal medicine physician online -->",
+        "temperature": 1.3
+      },
+      {
+        "question": "Can you explain what hemoglobin A1c is and why it's important for monitoring diabetes?",
+        "answer": "It has the common disease of diabetes with antiangiopathy and diabetes. Because the insulin or thyroid hormone, it is important for you to reduce insulin. However, I suggest you stop with some foods such as tiramisu, banana and coconut tablets which are like one and three ingredients of tummy. To stop with the glucose on cardiovascular disease it can be suitable for both. You need to get any helping or prevent these disease. It is best to avoid more sugar, also eat. There are other things not going to be in need, that it depends upon blood pressure from an insulin-adjusted blood blood to be clear. For more information consult an internal medicine physician online -->",
+        "temperature": 1.3
+      },
+      {
+        "question": "I've heard about the gut microbiome affecting mental health. Is there scientific evidence for this connection?",
+        "answer": "For further information consult a psychiatrist online -->",
+        "temperature": 1.3
+      },
+      {
+        "question": "What are the main differences between viral and bacterial infections, and why do antibiotics only work for one type?",
+        "answer": "The viral (microbial) infections are more common with infection types due to the viral and bacterial infection. Usually without restrictions in the viruses, the infectious disease is most common with viral, as most common infection is primary cause of viral infestation. It can help many diseases as well. For more information consult a pulmonologist online -->",
+        "temperature": 1.3
+      },
+      {
+        "question": "How does chemotherapy work to kill cancer cells, and why does it also cause side effects like hair loss?",
+        "answer": "Today we could take a few treatments that we might use if we are unable to determine this cancer. You may not take all medicines that you have before you have had or would have medications or tissues which could prevent more disease like cancer tissue, derived from some side effects, so for further treatment contact me:",
+        "temperature": 1.3
+      },
+      {
+        "question": "What is the purpose of inflammation in the body, and when does it become harmful?",
+        "answer": "Curing with antihistamine may be based on medications and is not unlikely. For more information consult a body dermatologist online -->",
+        "temperature": 1.3
+      },
+      {
+        "question": "Can you explain how vaccines train the immune system without causing the actual disease?",
+        "answer": "As you do not have any cause of dementia and cause you have immunity due to cardiovascular disease. Certain immune system can cause vaccinal diseases but can lead to a larger decrease of immunity and spread by the immune immune systems. But some immune disease can become an uncertain cause or not despite certain of cause. The symptoms are following below the following factors. You are able to maintain your immune immunity with any active antigen-reactive antigen in your system because immune support can affect your immunization. For more information consult a medicine physician online -->",
+        "temperature": 1.3
+      },
+      {
+        "question": "What happens during a stroke, and why is immediate treatment so critical?",
+        "answer": "<extra_id_0> there is nothing more like physical history and how it is working within this period. Usually only those tests of the treatment needed. These results often indicate how it can reduce the chance of stroke. I would urge you to wait for 10 minutes after surgery before immediate treatment due to uncomfortable problems. So, a detailed treatment guide, do follow up. Please ask back. For more information consult a neurologist online -->",
+        "temperature": 1.3
+      },
+      {
+        "question": "How do statins lower cholesterol levels, and what are the potential side effects?",
+        "answer": "Chirculate diets in sports. It does not take insulin. Take insulin capsules too much at your best way to get a better level for a month or so and start to work for 10 days for which. When not taking any medication, your diet will reduce blood count and calories of meals. Do not give your weight, the vitamin levels were low and will need to reduce food quality.",
+        "temperature": 1.3
+      },
+      {
+        "question": "What is the difference between Type 1 and Type 2 diabetes in terms of causes and treatment?",
+        "answer": "For further information consult an internal medicine physician online -->",
+        "temperature": 1.3
+      },
+      {
+        "question": "Why do some people develop autoimmune diseases where their immune system attacks healthy cells?",
+        "answer": "Rumour has been given without explanation. You must have an opinion about the cause of a stress test, with the appropriate therapy and to find out more on the disorders and can get medications for their medical treatment? What is most common: Also, the cells are reactive and healthy, and the nutrient is reactive for a life cycle like hepatitis, cardiovascular fever, cancer, cancer. Regarding inflammatory disease or AIDS, the disease can be deadly if they get negative. What about AIDS? If diseases are affected from a disease? Symptoms which happen to mostly are highly concentrated for it, and even if your disease does not seem to affect the immunity, the immune system may need to be reactivated to better control immune systems. Also there are infections of the genitals and will be highly immune cell dysfunction. But there is no sign if those people complaining depressive stress of infection may occur. When the system is not regulated either in any way in the normal state of disease, i would recommend a pharmacological solution to help protect immune cells. But now, immune is very vulnerable to the diseases itself and will reduce the need. And it is called anti-asthma where your immune function runs off and which is not the main reason, will be greater if the immunes and the immuncells have not be protected. For more information consult an antiasthma doctor online -->",
+        "temperature": 1.3
+      },
+      {
+        "question": "How does chronic stress affect the body's organs and systems over time?",
+        "answer": "For further information consult a physician online -->",
+        "temperature": 1.3
+      },
+      {
+        "question": "What causes antibiotic resistance, and how can we prevent it from getting worse?",
+        "answer": "Your blood sample, according to his research, the assessment of vitamin M is one of the most common causes. Do you have any other antibiotic (oral-based medication) in your study or treatment that will reduce antibiotic effectiveness in your medications or also if not, they could be made to occur in case of the antibiotic treatment, like, one of it is bacteriophage disease. Other things you need to know earlier. Avoid antibiotic or typical antibiotic or some bacteriophag which can cause allergic inflammation. Another important point is that tamoxifen and HIV. But prevention could prevent your infection. Let the antibiotics retreat to the pathologist to the clinic and to the immunologist, then let me tell you to stop antibiotic treatment.",
+        "temperature": 1.3
+      },
+      {
+        "question": "Can you explain what blood pressure numbers mean and what's considered a healthy range?",
+        "answer": "Hi! For more information consult an internal medicine physician online -->",
+        "temperature": 1.3
+      },
+      {
+        "question": "What is the placebo effect, and how powerful is it in medical treatments?",
+        "answer": "I suggest that you do choose a different drug and would be described. They are common, but I do not have the same feelings. It has to be a low concentration of protein and serotonin to cause it as one way and for making up. It is a difficult choice. For more information consult a specialist online -->",
+        "temperature": 1.3
+      }
+    ]
+  },
+  "gs_3": {
+    "temp_0.7": [
+      {
+        "question": "What is the difference between a CT scan and an MRI, and when would a doctor choose one over the other?",
+        "answer": "For further information consult an internal medicine physician online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "Can you explain what hemoglobin A1c is and why it's important for monitoring diabetes?",
+        "answer": "I have gone through your query with a detailed explanation and understand your concerns. 1. Glucose (glucose levels) is normal in a diabetic group. 2. Glucoses (glucoses) which is a normal hormone, but hemoglobin is essential for glucose. 3. Glucone is relatively weak and it is critical for exposure to glucoses. It is very important for anyone to know. I would like to know what the hemoglobin levels are allowed. I will advise you to follow up with your investigation and check your hemoglobin level. 4. Do not worry.",
+        "temperature": 0.7
+      },
+      {
+        "question": "I've heard about the gut microbiome affecting mental health. Is there scientific evidence for this connection?",
+        "answer": "I have gone through your query with the reports (attachment removed to protect patient identity). Regards. For more information consult a psychiatrist online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "What are the main differences between viral and bacterial infections, and why do antibiotics only work for one type?",
+        "answer": "For further information consult an internal medicine physician online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "How does chemotherapy work to kill cancer cells, and why does it also cause side effects like hair loss?",
+        "answer": "If you have been on chemotherapy, the chemotherapy is very effective. You can take chemotherapy for your cause and you can take a few minutes to kill the cancer. However, a little bit of chemotherapy could be given to you as a result of chemotherapies. If it does not work, it can be applied to avoid radiation. This will give cancer cells a complete increase in the number of cells in the body. I hope you have a good experience.",
+        "temperature": 0.7
+      },
+      {
+        "question": "What is the purpose of inflammation in the body, and when does it become harmful?",
+        "answer": "For more information consult an internal medicine physician online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "Can you explain how vaccines train the immune system without causing the actual disease?",
+        "answer": "For further information consult a physician online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "What happens during a stroke, and why is immediate treatment so critical?",
+        "answer": "<extra_id_0> you have a stroke and a high risk of stroke. The stroke is due to a painful stroke, which is related to stroke or severe strokes. However, the stroke requires immediate treatment. This is a common disease which has been created through stroke (stroke stroke). Both of these are chronic stroke that is chronic and serious, therefore, the symptoms are very serious and causes stroke in chronic form. If the symptom is not serious then the symptom of Stroke is usually a second stroke but there is nothing to worry about. Because the Stroke cause is often a worsening, however, the treatment is not for the entire stroke of the body. Also, the medical treatment is necessary. These are certain cause of thrombosis. The treatment is needed to take a patient for a short period of time. But, we can do a full recovery of the blood glucose and the associated stroke can be a general cause. They are treated when the symptom changes are negative. There is probably a low risk of medical stroke like a blood oxygen consumption and sickness. The blood count is very high and it is higher. It is worth taking a lot of blood glycemic levels. I would advise you to take it immediately, but you should get a better oxygen.",
+        "temperature": 0.7
+      },
+      {
+        "question": "How do statins lower cholesterol levels, and what are the potential side effects?",
+        "answer": "I have seen your query. I have gone through your reports and reports (attachment removed to protect patient identity). You have a good choice of statins, which are very common. In the case of cholesterol, cholesterol is very higher. However, there are some issues that can be related to the lower cholesterol levels. If you have cholesterol and cholesterol are lower, then you can also use statin tablets to lower the cholesterol level and do statin diet. If the LDL cholesterol exceeds a high level, you can take statin tablets twice daily to reduce the lipid levels as well. They could be given as they are associated with cholesterol. In case you have any further troubles, you should avoid statin drinking a drink and take a sandwich. For more information consult an internal medicine physician online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "What is the difference between Type 1 and Type 2 diabetes in terms of causes and treatment?",
+        "answer": "The difference between Type 1 and Type 2 diabetes is very different from Type 2 which is most common in diabetes. However, i suggest you avoid the prescription of a prescription medication twice daily for two days. Also, you can use a medical therapy according to the criteria. If you have a diabetes, then you can take a blood test to determine the level of diabetes. For more information consult an internal medicine physician online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "Why do some people develop autoimmune diseases where their immune system attacks healthy cells?",
+        "answer": "The primary symptoms are related to chronic inflammation, which causes chronic immune diseases like fever, fever and inflammation. However, the cause is very severe. But however, there is no chance of chronic rheumatoid arthritis, but it is a cause of inflammatory diseases in chronic people. If it is an inflammation in which you become immune, then the cells are not weak and it does not damage their immune system. For more information consult an internal medicine physician online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "How does chronic stress affect the body's organs and systems over time?",
+        "answer": "I have gone through your query and explained the cause of stress. Since the stress increases, the stress is related to stress. It is a chronic stress. This does not cause stress. The stress is affected by chronic inflammation, which causes stress in a person and cause chronic pressure and stress in the body. The cause is very long which can cause an increase in stress and anxiety. When stress rises which is especially the leading reason for stress is that does stress spread in the lower levels of stress? And when it is chronic, it is normal that the stress can affect a lot in the system. This is why you have to take a tablet twice daily for three months. The time to stop stress is most often a stress induced stress. For more information consult a neurologist online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "What causes antibiotic resistance, and how can we prevent it from getting worse?",
+        "answer": "The infection can be due to a combination of antibiotics, which is a common cause of bacterial resistance. I would like to know about the antibiotic resistance given to the patient. For more information consult a medical pulmonologist online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "Can you explain what blood pressure numbers mean and what's considered a healthy range?",
+        "answer": "I have seen your query and could understand your concerns. The blood pressure is not a significant index of blood pressure. The index does not mean a high blood pressure index. The normal blood pressure can be due to a low blood pressure and is a factor in the blood pressure, but does the pressure increase in blood pressure? The blood glucose levels are high and it is essentially a normal index and swelling. The number of blood hemoglobin is very significant. So the blood levels usually increase and then it is more significant than the average blood pressure or the lowest blood pressure (blood pressure) levels. The best sources of bloodpressure are uterus, which is sufficient to avoid a risk of failure. However, if you have a blood pressure low, it is better to be a good index, although the index is relatively high, so you need to know the numbers. Then, you should know that the blood level is low and the percentage is low. But if you are a diabetic, then you can take a medicine for this.",
+        "temperature": 0.7
+      },
+      {
+        "question": "What is the placebo effect, and how powerful is it in medical treatments?",
+        "answer": "<extra_id_0> and a few ways of treating the disease are : A very good cause is a clinical evaluation. I hope it helps. However, a good way is to avoid the chemical poisoning and avoid a toxic substance. If you are a diabetic, then you need to know how much you can do. Also, you need a great evaluation of the disease. You need to do a quick evaluation and evaluation in order to reduce the effect. If the medication does not work, then it needs to be treated. If it is taken to help us. If a child is sick, then a little better. If there is no medication, then there is nothing to do. If any further questions, please discuss with a pediatrician and cardiologist. If not, then please consult a neurologist online.",
+        "temperature": 0.7
+      }
+    ],
+    "temp_1.0": [
+      {
+        "question": "What is the difference between a CT scan and an MRI, and when would a doctor choose one over the other?",
+        "answer": "I have read your concern. I can understand that you are not interested in a CT scan because you need to examine a MRI scan. It is likely that you need a better MRI done that might help to improve the MRI scanning of your brain and body. For further information consult a psychiatrist online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "Can you explain what hemoglobin A1c is and why it's important for monitoring diabetes?",
+        "answer": "I have gone through your query with detailed explanations to understand your diabetes history and hemoglobin A1c is a normal substance. It is normal and why the diabetes is regulated. So, a lot of them are given because the hemoglobin are the most important thing. And it is often reduced by using medications in a day, using insulin. Because, medication cannot increase the blood pressure, but often a blood pressure should also be restricted by any changes in the blood level, which will be prevented from its presence. But the only thing that you should do is the blood count, in blood count. It needs to be monitored for hemoglobin measurements to ensure the blood tests remain tight and in the long run. If your blood count is still less, then your blood function is better than that. This can be derived from the blood volume, where the oxygen levels are high because it is better to watch diabetes and the other blood tests. I hope you have answered your question.",
+        "temperature": 1.0
+      },
+      {
+        "question": "I've heard about the gut microbiome affecting mental health. Is there scientific evidence for this connection?",
+        "answer": "If you are having severe chronic disease, a biopsy will cause the brain damage of your brain. They should be removed in the treatment of infections and toxins, and asymptomatic emesis is associated with the inflammation which is causing the nerves and the affecting immune systems. This is a risk of incomplete brain diseases, especially when you are recovering. It is not of any reason why you are not having such problems. It can be called neurotic. It will be avoided by the exposure of these cells and causes the affected inflammation and is leading to a more severe disease. You can take the medicine and will be fine. For more information consult an internal medicine physician online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "What are the main differences between viral and bacterial infections, and why do antibiotics only work for one type?",
+        "answer": "I have gone through your details and understand your concerns. This is the worse type of bacterial infections (infection infection causes viral infection). It is not a vaccine, but there are other ways to prevent the contamination of bacteria. Do not risk a bacterial infection with bacterias.",
+        "temperature": 1.0
+      },
+      {
+        "question": "How does chemotherapy work to kill cancer cells, and why does it also cause side effects like hair loss?",
+        "answer": "The cause of chemotherapy is not the chemotherapy. The chemotherapy causes you from chemotherapy with high-level chemotherapy that is a very important solution to treatment of cancer cells. It is essential to understand the treatment result. I hope this helps.",
+        "temperature": 1.0
+      },
+      {
+        "question": "What is the purpose of inflammation in the body, and when does it become harmful?",
+        "answer": "The cause of inflammation in the body is not common for the body. When it is seen from your body, the inflammation is seen in the abdomen, and because it is called inflammatory cause, it is likely to cause inflammation. For further information consult an internal medicine physician online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "Can you explain how vaccines train the immune system without causing the actual disease?",
+        "answer": "If you have experienced any vaccine, then you should apply vaccines according to your system. It is to be done during vaccines and prevent spreading infections. You should also have a vaccine. I would suggest you take the vitamin C tablets and avoid a large dose of vaccine including anti-terrory and anti-rutism, anti-tuberculary and anti inflammatory agents because it is a good medicine to keep your immune system healthy and immune independence. Also, if you have to apply vaccination, then always get it corrected and will do the medicines you can do for the symptoms to help you. You can use vitamin C (vitamin C) for one weeks.",
+        "temperature": 1.0
+      },
+      {
+        "question": "What happens during a stroke, and why is immediate treatment so critical?",
+        "answer": "It is a good treatment for the stroke and why the cause is called stroke. I can understand that the thrombosis is significant. But in case of any stroke, the MRI is unnecessary. Do the following:",
+        "temperature": 1.0
+      },
+      {
+        "question": "How do statins lower cholesterol levels, and what are the potential side effects?",
+        "answer": "Enhanced cholesterol, blood levels are the best low and maintain the high cholesterol. For further information consult a general medicine physician online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "What is the difference between Type 1 and Type 2 diabetes in terms of causes and treatment?",
+        "answer": "For further information consult a diabetologist online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "Why do some people develop autoimmune diseases where their immune system attacks healthy cells?",
+        "answer": "I have gone through your information and do know the details. I have seen your question and could understand your concerns. For further information consult a neuroimaging specialist online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "How does chronic stress affect the body's organs and systems over time?",
+        "answer": "Stay your medications and take amoxicillin and continuous drug therapy. Keep the stress in check. Do not worry. 1. Do not wait for that because the stress spread is due to low blood pressure and no stress in life. 3. If it means stress is a permanent problem, then you can take an antidepressant injection. 4. You can take a tablet twice daily. You can also take an thermometer for a week or two for 10 days to help you recover.",
+        "temperature": 1.0
+      },
+      {
+        "question": "What causes antibiotic resistance, and how can we prevent it from getting worse?",
+        "answer": "How do you get antibiotic resistance? And what you are saying? What happens when antibiotics are on the screen? A few of them are serious diseases like asthma, or chronic disease like pneumonia, etc., which are a few. Another is a history of antibiotic resistant antibiotic therapy. In finding the antibiotic infection, you need to get a diet based on food preparations, to do amoxicillin and calcium levels in the liver or liver, and these medicines become very frequent. But the antibiotics can be given from the antibiotic medicine and it can be good to be safe. And as I suggest you take amoxicillin tablets, once you have been taken to prevent it. But, for antibiotics, it is not much importance to know your age, although antibiotics that causes it are severe, it can also cause antibiotic failure. To detect antibiotic errors, we can use amoxicillin if needed which is not necessary. In regards to antibiotics and antibiotics you can use your treatment for this.",
+        "temperature": 1.0
+      },
+      {
+        "question": "Can you explain what blood pressure numbers mean and what's considered a healthy range?",
+        "answer": "I have gone through your query with some reports (attachment removed to protect patient identity). I can understand your concerns and understand your  concerns. Please discuss with me with further information. Revert back with the reports to a general medicine physician online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "What is the placebo effect, and how powerful is it in medical treatments?",
+        "answer": "<extra_id_0>, when you examine your case, there is a combination of combination ingredients and various medications. You need to understand what the effects and what effects a place. If the pills are not used, it is quite sensitive to the physical absorption and which means the treatment of the place does not seem to be a good thing. So if you do not have any other problem then then there are other causes. For the above reasons, these are those types of medication that becomes suitable for surgical removal, the symptoms of death. It will also be the use of the medication after treatment and to prevent your infection. If it is not useful, then you should give yourself more information on this article. If your healthcare is fine, you can treat a well. You will give you a total overview of the pathophysiology of treatment. If you have any more questions then you can discuss with a physician about the treatment. Take care. Please add the above detail and get detailed explanations.",
+        "temperature": 1.0
+      }
+    ],
+    "temp_1.3": [
+      {
+        "question": "What is the difference between a CT scan and an MRI, and when would a doctor choose one over the other?",
+        "answer": "Optical Scan, CT scan with the CT scan, MRI scan with Clinical scanners is the result of a larger case on an CT scan on an intravaginal and MRI image. You can choose an X-ray to help the patient understand what the difference is, but I suggest you have to give two CT Scan a time after taking the CT (Athersooth color, or Röntgen scan). The same MRI, CT Scan, and IRM scan. If MRI is the only condition, the MRI can be done in a three-sided camera in your case. MRI takes two-sided MRI and a CT scan also, it is also possible to compare MRI results on an MRI of the uterus. For further information consult a paediatrician online -->",
+        "temperature": 1.3
+      },
+      {
+        "question": "Can you explain what hemoglobin A1c is and why it's important for monitoring diabetes?",
+        "answer": "You have got to answer your question. Welcome to icliniq.com. I need to help you. Take care. Regards. For more information consult an endocrinologist online -->",
+        "temperature": 1.3
+      },
+      {
+        "question": "I've heard about the gut microbiome affecting mental health. Is there scientific evidence for this connection?",
+        "answer": "I have read your query and understand your concerns. Have I been waiting for your answer, your questions? Is there any cause that affected your health? Did the genetic factor like pancreatitis due to infection? Is it not connected to human and mental? The virus has to be recognized or not to be eliminated due to microbiological causes. So you can be at your home after reading your reports written or discuss with your expert. For more information consult a psychiatrist online -->",
+        "temperature": 1.3
+      },
+      {
+        "question": "What are the main differences between viral and bacterial infections, and why do antibiotics only work for one type?",
+        "answer": "You have to understand what you need to think about or apply them to treatment where to find a common alternative. But the primary factor of drug development is the problem of bacteria infections. Now if antibiotics are effective in immune treatment that are not necessary. Now this thing is what there are in between your virus and virus, as in other situations that it may happen when any virus is infection and a virus is affected by it. It is to use antibiotics if required. But with different antibiotics, it can also be done by both viruss, but that does not lead to any major viral infection. Any other factors of similar behavior, between viral and viral attacks or any bacterial infection can come with virus or viral-induced infection, or vaccine. So, as soon as possible, it is mostly called microbacterial assault in cases. Before the infection start, and antibiotics have to operate against virus or bacterial inhabitants. Take treatment like prednisone tablets, or antibiotic. It also reduces the bacterias. In comparison, which help to reduce viral contagious infection on your individual or particular cell type infection then the virus will not produce any of these effects. Do not give anything much to say the different cases if the virus may cause any adverse effect. The virus may also infect virus bacteria and its other bacteria. If the resistance is a factor, the virus can cause infection infection like flu and virus infection may be some other factor. There are more to have any concern with this infection attempted in bacterial antibodies or pneumonia.",
+        "temperature": 1.3
+      },
+      {
+        "question": "How does chemotherapy work to kill cancer cells, and why does it also cause side effects like hair loss?",
+        "answer": "For further information consult a cancer specialist online -->",
+        "temperature": 1.3
+      },
+      {
+        "question": "What is the purpose of inflammation in the body, and when does it become harmful?",
+        "answer": "The inflammation can be very much affected in the skin. As a normal one of the disease is chronic, chronic stress or muscle inflammation. All this inflammation is a common type of inflammation that can be identified. It is possible if any one has a cause, for that we could also ask you to discuss a new procedure, which must be assessed through an immunological diagnosis or psychological diagnosis. If somebody has been used and will manage very lower testosterone as per the condition. A simple treatment and best help can be the following: In general, please contact a general medicine physician when it can be examined.",
+        "temperature": 1.3
+      },
+      {
+        "question": "Can you explain how vaccines train the immune system without causing the actual disease?",
+        "answer": "As outlined is where I have given you the advice you were up with your vaccine. Please follow up to the list immediately and get to know if he can get any other antibodies. For more information consult a general medicine physician online -->",
+        "temperature": 1.3
+      },
+      {
+        "question": "What happens during a stroke, and why is immediate treatment so critical?",
+        "answer": "If you are not serious or not enough to do anything so we have to stop all the procedure itself. And most well, you need a surgical medical follow up. Procedure: Follow up with these info and do a scan to help you get treatment. So, check the cause of symptoms and check that treatment is done for all these surgery, in keeping the doctor secure and healthy. Take the next dose after taking your medicines. Let your health help.",
+        "temperature": 1.3
+      },
+      {
+        "question": "How do statins lower cholesterol levels, and what are the potential side effects?",
+        "answer": "I have seen the following responses as you have no trouble against your cholesterol levels, yet you have to decide if it is normal then you are not going to sleep if you exercise or if you are taking too much time and get better cholesterol. We are sure to take you three steps for your toiling or losing the weight from food. I want you to see if I would advise you to treat your doctors with any improvement. The higher cholesterol is the most common side effect from diet, which would require sufficient vitamin D, insulin and etc. Take care for your symptoms, you can keep smoking and do not eat so much. For more information consult an internal medicine physician online -->",
+        "temperature": 1.3
+      },
+      {
+        "question": "What is the difference between Type 1 and Type 2 diabetes in terms of causes and treatment?",
+        "answer": "ECG (ECG infection) could be a symptom for diabetes. A lot of diabetes will lead to a longer period, but it is the characteristic difference in disease. So there is no reason to have diabetes before diabetes. That is necessary to avoid your diabetes. You will need any medications for this type of diabetes during lifetime. We choose either two people in a time. No prescriptions should come but should be taken with a dose of insulin according to diabetes. I suggest you usually do one prescription for insulin injection. Consult your experts and have the information to inform you.",
+        "temperature": 1.3
+      },
+      {
+        "question": "Why do some people develop autoimmune diseases where their immune system attacks healthy cells?",
+        "answer": "Your symptoms are due to autoimmune diseases. In the autoimmunian disorders they are exposed, also do not use the steroids. Similarly, they can still use synthetic immune antigen, immune antibodies. This also help to treat symptoms according to medical history and also can be transmitted to homeopathy.",
+        "temperature": 1.3
+      },
+      {
+        "question": "How does chronic stress affect the body's organs and systems over time?",
+        "answer": "Remember your history which have to be discussed in you and your own. Remember a simple, antiinflammatory medication has helped to prevent this damage on your blood mass due to an increased metabolism on the brain like clinical hormonal and biological factor.",
+        "temperature": 1.3
+      },
+      {
+        "question": "What causes antibiotic resistance, and how can we prevent it from getting worse?",
+        "answer": "Erythroblast associated causes antimicrobial resistance is always the result of intestinal inflammation which are almost always occuring. This cause of bacterial infection is because of the effects of antibiotics. It is an antibiotic because it cause bacterial antibiotics are very rare. Causes of inflammation are mostly due to inflammation. These cause are also symptomatic and infection. I have never noticed a great interaction with other antibacterial or toxins. They can happen when people get antibiotics in the urine or the liver. If it is not enough, the most important problem is those in blood-protein balance. Symptoms of antibiotic resistance (antibiotics) are frequent but all in all cases, and certain indications are avoiding these antibiotics, so it is unnecessary to use an antibiotic of the right place to protect your immunity from antibiotics or the detrivirtion when it happens but they are causeed by the antibiotic antibiotic. So I have done the first analysis from your medicines and it seems that the antibiotic consumption is delicate and that caused by antibiotic resistant antibiotics on and sideways of drugs may get an effect as there is no chemical decrease to antimicrobials, which cause to bacterial metabolism, bacteria, and viruss that you suspect cannot be diagnosed by genetic mutation. You must not tell your parents as what is on my timeline. This is not an advantage, you can do anything about vaccination, as you do it. There is an antituberculous cause which may cause antibiotics and can prevent you from using antibiotics as we can apply antibiotics like antibiotics (Caffeine, BCG, Tamoxifen), and you simply can be taken at certain intervals of the week or week. So therefore you can use antibiotic therapy to stop bacteria through urine injections like alcoholism, amoxicillin, tablets, and vitamin D on your computer, twice a day and maintain your antibiotic management to the best. You really need to continue antibiotics to prevent it. I do the test of antibiotic-controlled drugs without more interaction or between an antifungal",
+        "temperature": 1.3
+      },
+      {
+        "question": "Can you explain what blood pressure numbers mean and what's considered a healthy range?",
+        "answer": "If you feel down there is a lower blood pressure, then we should avoid any pressure tests, as needed.",
+        "temperature": 1.3
+      },
+      {
+        "question": "What is the placebo effect, and how powerful is it in medical treatments?",
+        "answer": "<extra_id_0>, so your treatment could be better. So, if does it take to be treated as a painkiller, there is much time because you have been done with pharmaceutical pills to maintain the treatment of your current medication? You need to use some drug for which is called chemotherapy or pharmaceutical. If it still is adequate the drug use, it may use its own strength for developing medical patients, and will be not developed before the medicine goes into maintenance. So in this case , do following: Calcium oxide. If they were already taken on medication, the medicine will be definitely given and given that almost completely to remove the place, we can provide more relief to patients. You need a lot of help in preventing infection. You can buy other medicines with good causes like thyroid. This may also help keep your condition regularly for the next seven days. I do choose some medicine for it. The more useful thing is that there is no way you can anyone say? And if it was enough. I feel very happy that you need some help. If you have symptoms in this field, do check the place and get the result of your treatment, you will take many treatments to work. You must start on to prevent unwanted depression with the treatment. After making your anxiety and depression to develop immune system. If not, then you can buy it on your health care website. If this is going to improve my health, and we have a good mood for it now until you know how well the treatment is working for you. If there is negative it is better to treat yourself. If your blood pressure is still high then your blood will be reduced by a month. If I will continue doing this to prevent you from these actions immediately. You could try to take treatment for the medicine. Posted on your homepage. http://http://webcare.com/help.info.",
+        "temperature": 1.3
+      }
+    ]
+  },
+  "gs_4": {
+    "temp_0.7": [
+      {
+        "question": "What is the difference between a CT scan and an MRI, and when would a doctor choose one over the other?",
+        "answer": "<extra_id_0> MRI scan (CT scan) and CT scan surgical scan. MRI scans can be done in a combination of two different tests. They are different in MRI. Both the MRI and CT are related to MRI in the age group. If MRI is a CT scan and CT, then the comparison is not the same. I would advise you to take the following tests for the same MRI (CT) scan and MRI with MRI on the same scan. For more information consult a neurologist online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "Can you explain what hemoglobin A1c is and why it's important for monitoring diabetes?",
+        "answer": "I have gone through your query and explained your detailed information. I would like to know that your hemoglobin is a very good indicator. You can have a good blood glucose test which is necessary for hemoglobin and hemoglobin. You need to take the following test to understand your needs. For more information consult a diabetic gastroenterologist online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "I've heard about the gut microbiome affecting mental health. Is there scientific evidence for this connection?",
+        "answer": "For further information consult a psychiatrist online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "What are the main differences between viral and bacterial infections, and why do antibiotics only work for one type?",
+        "answer": "<extra_id_0> infections between viral and bacterial infection is a very common cause of infection. Also, a bacterial bacterial virus is known as viral infection and does not have any potential causes. For more information consult a physician online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "How does chemotherapy work to kill cancer cells, and why does it also cause side effects like hair loss?",
+        "answer": "Regards. For more information consult an internal medicine physician online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "What is the purpose of inflammation in the body, and when does it become harmful?",
+        "answer": "If there is no inflammatory disease, it takes a little time to detect it. It is a very common cause of inflammation which causes inflammation. Also, you should take a lot of vitamin C tablets in the morning for a week and take the medications for the following: When inflammation is increasing, it can increase the inflammation and increase in the body. It cause a short-term inflammation in the muscles and muscle. The inflammation may cause an inflammation of the body and cause pain. But, there is not a reason for the pain. It will also help you in the process. You can take some medication without prescription. For more information consult an internal medicine physician online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "Can you explain how vaccines train the immune system without causing the actual disease?",
+        "answer": "I have gone through your query and understand your concerns. For more information consult a general medicine physician online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "What happens during a stroke, and why is immediate treatment so critical?",
+        "answer": "<extra_id_0> I have gone through your query. Smoking is a serious disease and the disease causes it. You can take antibiotics for a week and a day for which you can take a painkiller for muscle damage. Also, you can use a multivitamin capsule for recovery and avoid anxiety. For more information consult a neurologist online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "How do statins lower cholesterol levels, and what are the potential side effects?",
+        "answer": "For more information consult a medical gastroenterologist online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "What is the difference between Type 1 and Type 2 diabetes in terms of causes and treatment?",
+        "answer": "For further information consult a diabetic endokrinologist online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "Why do some people develop autoimmune diseases where their immune system attacks healthy cells?",
+        "answer": "The immune system infection might also be due to infections. These infection can affect the immune cells in the tissue. When the immunes system attacks these cells, the immunis may be weak and damaged. The immunes systems may also have an inflammation. However, it is called a thyroid gland inflammation which can cause infection and infection. If the immuns system is weak, then it will be a condition that is a symptom of a disease that is mostly due to the chronic infection, which makes it uncomfortable to hear certain signs of inflammation and inflammation in a single tissue and the cells themselves. The symptoms are very common and many cases can be chronic. It is related to the immunological disorders. If you are having asymptomatic infection then a chance of infection will be prevented. If your immune systems are not healthy, then the infection may cause some chronic symptoms. Then, you can avoid the chemical poisoning, and not having any chemical. If any infection is already a common disease, then you can take the following treatments.",
+        "temperature": 0.7
+      },
+      {
+        "question": "How does chronic stress affect the body's organs and systems over time?",
+        "answer": "Please understand your concern. Your healthcare is very important in the case of stress. Your treatment is not an effective way to manage stress. I think that stress is a good thing to do. It is important to know that these actions are not related to stress. But the stress which is related a stress disorder, which will cause stress and increase levels of stress in the body. When you have stress, you can find it better to do healthy food and drinking. If you have any medications, you may have to avoid smoking. If your medication is not appropriate, you should check the medication and take the medicines as you have a very good choice.",
+        "temperature": 0.7
+      },
+      {
+        "question": "What causes antibiotic resistance, and how can we prevent it from getting worse?",
+        "answer": "If antibiotic resistance is persistent, it can be a severe infection or infection which causes infection. For further information consult an internal medicine physician online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "Can you explain what blood pressure numbers mean and what's considered a healthy range?",
+        "answer": "For further information consult an internal medicine physician online -->",
+        "temperature": 0.7
+      },
+      {
+        "question": "What is the placebo effect, and how powerful is it in medical treatments?",
+        "answer": "For further information consult a cardiologist online -->",
+        "temperature": 0.7
+      }
+    ],
+    "temp_1.0": [
+      {
+        "question": "What is the difference between a CT scan and an MRI, and when would a doctor choose one over the other?",
+        "answer": "For further information consult an internal medicine physician online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "Can you explain what hemoglobin A1c is and why it's important for monitoring diabetes?",
+        "answer": "A1c is a vitamin-rich liver disease which are normal. It would be necessary to follow up with your health reports. Avoid use of tablet (feed-feeding tablet) or tablet (capsule) which can help improve the disease. I would like to know if it is necessary. A second investigation could be of a blood test.",
+        "temperature": 1.0
+      },
+      {
+        "question": "I've heard about the gut microbiome affecting mental health. Is there scientific evidence for this connection?",
+        "answer": "The blood circulation infection may affect your symptoms. For more information consult an internal medicine physician online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "What are the main differences between viral and bacterial infections, and why do antibiotics only work for one type?",
+        "answer": "If your infection is related to a virus or viral infection, you can get any antibiotic removal as well. Avoid an antiviral injection and antibiotics to avoid it. If you have antibiotics, the antibiotics cause you a reaction to your bacteria immediately, you may get a very poor infection. In these cases, you have already taken antibiotics as an everyday cause. However, if you are taking antibiotics or use antibiotics in your diet, a bit less than two tablets for three days, you should follow it for 2 to 4 days. Apply antibiotics for three months. Use antibiotics like twice daily for three weeks, and apply antibiotics on three occasions for four weeks. So, I would recommend you follow up the antibiotic prescriptions like CFU (CSF) and AFV (AFV) and ECG (ECG) and antibacterial injections. For more information consult an internal medicine physician online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "How does chemotherapy work to kill cancer cells, and why does it also cause side effects like hair loss?",
+        "answer": "Link to your email post (attachment removed to protect patient identity). For more information consult an internal medicine physician online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "What is the purpose of inflammation in the body, and when does it become harmful?",
+        "answer": "<extra_id_0> that might have affected inflammation, inflammation in the body is causing inflammation during various periods. You should have to use a high-level inhaler, oxygen therapy. You need to be taken before the first examination for inflammation and treat your symptoms immediately.",
+        "temperature": 1.0
+      },
+      {
+        "question": "Can you explain how vaccines train the immune system without causing the actual disease?",
+        "answer": "I need to understand your concern. 1. Your immunity system is better for vaccines and treatment is essential and it does not have any certain disease to occur against the immune system. 3. For more information consult a neurologist online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "What happens during a stroke, and why is immediate treatment so critical?",
+        "answer": "<extra_id_0>t a stroke is a simple course. I think the stroke has not been treated by any medication because it is to be immediately prevented. I suggest you have some early medications starting in the immediate stroke, so that it becomes a prolonged period for a week. You are very lucky to have been having a medical treatment to prevent the treatment going through your blood. This is one when you are having the symptoms. That is because of the medical errors. A serious stroke cannot occur if it looks as a normal procedure, or if it is treated, we can suggest you get this treatment. The emergency treatment can be done for further information and you can get back tomorrow. If you are not interested to consult a physician, take medication, taking the medicine in a patient's room to find out more information.",
+        "temperature": 1.0
+      },
+      {
+        "question": "How do statins lower cholesterol levels, and what are the potential side effects?",
+        "answer": "The common problems includes higher cholesterol and higher diet. Also, cholesterol is the common problem. But this includes no additional issues in this condition, but although there are some low levels of LDL and LDL, these side effects may often lead to a high diet and low cholesterol, and so there may be an issue. Please add the list of all the other items.",
+        "temperature": 1.0
+      },
+      {
+        "question": "What is the difference between Type 1 and Type 2 diabetes in terms of causes and treatment?",
+        "answer": "For further information consult an internal medicine physician online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "Why do some people develop autoimmune diseases where their immune system attacks healthy cells?",
+        "answer": "Today we talk about a lot of foods. Please share your recommendations. For more information consult an internal medicine physician online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "How does chronic stress affect the body's organs and systems over time?",
+        "answer": "The symptoms of stress like stress is most common in your bodies, especially with stress and weight. It is a common occurrence of stress in our bodies and the bodies. They are generally called stress, which you should expect to see if you have a good detox in the body. In the cases of stress, stress could be affected by stress and stress. It may take some long time to find out the effects of stress and is not severe. You can give advice about the condition. I hope your help is helpful. For more information consult a neurotoxicologist online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "What causes antibiotic resistance, and how can we prevent it from getting worse?",
+        "answer": "Rescue (Steroids) - Antibiotics (Plophylamine vaccine) is effective at all. According to statistics, I recommend you take antibiotics which are resistant to antibiotics. I also suggest that you take an antibiotics as an alternative alternative. For more information consult an internal medicine physician online -->",
+        "temperature": 1.0
+      },
+      {
+        "question": "Can you explain what blood pressure numbers mean and what's considered a healthy range?",
+        "answer": "I can understand your concerns. I need to know if you are getting blood pressure levels? How much does you have to do? What do you have for healthy liver? What kind of inflammation you need to make a blood pressure and what are you going to eat? What is you doing? What a day in the morning, it is more than the usual? You are looking for a suitable blood pressure measures for the body? If it is not necessary then you should give your blood pressure. You should do a short diet. You need to do medications after a long period. Do a night diet if you have stomach pain, a heartburn, or a good diet.",
+        "temperature": 1.0
+      },
+      {
+        "question": "What is the placebo effect, and how powerful is it in medical treatments?",
+        "answer": "For further information consult an obstetrician and gynaecologist online -->",
+        "temperature": 1.0
+      }
+    ],
+    "temp_1.3": [
+      {
+        "question": "What is the difference between a CT scan and an MRI, and when would a doctor choose one over the other?",
+        "answer": "‘Do not worry’, would be that any biopsy was done, or any MRI (a blind eye) scan and the treatments may not get better for all that.",
+        "temperature": 1.3
+      },
+      {
+        "question": "Can you explain what hemoglobin A1c is and why it's important for monitoring diabetes?",
+        "answer": "For further information consult an epidemiologist online -->",
+        "temperature": 1.3
+      },
+      {
+        "question": "I've heard about the gut microbiome affecting mental health. Is there scientific evidence for this connection?",
+        "answer": "If you heard an eyelash from your past, you should have a few assessment to assess the effects in your patients as an evidenced immune disease. If they are involved in your disease, then please advise you to visit you. In related cases especially in patients who will take food consumption or drugs from society, you can give you vitamin D capsules with the liver app to better control the disease. And it can reduce the effect of the microbioma of the body, if it has been more indicated or inaccurate, and you should still follow this: Cause of infectious infection and prevention by treating the drug with a full-effect of gastrointestinal tract, to give some useful tips. Keep a little amount of vitamin A provided to guide you.",
+        "temperature": 1.3
+      },
+      {
+        "question": "What are the main differences between viral and bacterial infections, and why do antibiotics only work for one type?",
+        "answer": "Rifampicin and Tylexalmycin (Perineline acid acidic acid) and repeat drug uses from antibacterials. Antibacterias will require much time to protect immunity. I need to know if this is the problem to detect infection with either bacterial blood or bacterial infections. I want to warn you about it as it does not help on the health situation. As that is important you can take the antibiotic for two types, but it is important in preventing this from preventing a infection. To do the treatment and the situation is similar to you as having viral infection, you can give a good treatment in the situation. For your concern, you may have given your antibiotics to help you. For more information consult a pharmacist online -->",
+        "temperature": 1.3
+      },
+      {
+        "question": "How does chemotherapy work to kill cancer cells, and why does it also cause side effects like hair loss?",
+        "answer": "To take treatment from the latest HIV tests and also from the first stage of treatment that shows an issue between immunotherapy or genetic modification on chemotherapy. It has to be found due to cancer and cause the liver cancer damage. If your cancer cancer occurs in patients, the drug and serum radiation are being used to fight cancer infection for the long time. If chemotherapy has detected at the first, this causes some negative tumors and there is one problem which in some patients cannot find that some possible treatment involves to reduce levels of clinical function, then it has the ability to do other action to cure cancer disease and there are cases that can develop itself to reduce and prevent tumor. If the chemotherapy results in an cancer, you could go to chemotherapy to kill cancer for 3 years. If there are tumors, it may be the problem to keep the immune system. If you have more than 60 percent chance of carcinoma or disease from human tissues then the treatment can be started at this stage. I hope this helps.",
+        "temperature": 1.3
+      },
+      {
+        "question": "What is the purpose of inflammation in the body, and when does it become harmful?",
+        "answer": "For more information consult an internal medicine physician online -->",
+        "temperature": 1.3
+      },
+      {
+        "question": "Can you explain how vaccines train the immune system without causing the actual disease?",
+        "answer": "For further information consult a medical care ophthalmologist online -->",
+        "temperature": 1.3
+      },
+      {
+        "question": "What happens during a stroke, and why is immediate treatment so critical?",
+        "answer": "The risk is minimal. There is no chance for an stroke. Also, the risk for you remaining negative with your initial treatment. For more information consult an internal medicine physician online -->",
+        "temperature": 1.3
+      },
+      {
+        "question": "How do statins lower cholesterol levels, and what are the potential side effects?",
+        "answer": "Ration and cholesterol levels are less than 20 mg, as compared with blood tests or steroids are common. The blood test result for statin levels on some statins has to be followed by your cholesterol level. You will not go for medications after 30 minutes before being taken to check the balance of cholesterol. For your medication we should look for an additional blood tests. Take an initial and prohormone tablet (Valium). For further information consult a pharmacologist online -->",
+        "temperature": 1.3
+      },
+      {
+        "question": "What is the difference between Type 1 and Type 2 diabetes in terms of causes and treatment?",
+        "answer": "For more information consult an diabetes ophthalmologist online -->",
+        "temperature": 1.3
+      },
+      {
+        "question": "Why do some people develop autoimmune diseases where their immune system attacks healthy cells?",
+        "answer": "It can do you very much, so there are only two alternative symptoms for different patients. In this case you need to try one to help you at immune immunization process in those patients. It is the solution of an immunological test of some immune pathogens. It can cause their immunability and inflammatory disorder while taking their medicines and to maintain one healthy life. So it will reduce their status. Some patients need to start regular test on antigens. You may use these methods while doing twice the time the immune system which has symptoms during those ages. This has helped with the diagnosis.",
+        "temperature": 1.3
+      },
+      {
+        "question": "How does chronic stress affect the body's organs and systems over time?",
+        "answer": "I have seen this (attachment removed to protect patient identity) and has given me information that you are not looking for or what you were referring to. In a condition that is the stress, there is the frequency of high-stress and high-level stress in some people (for the age group) and their behavior in one case the effect of the increase in muscles from inside the body. I can see the reason that the pregnancy is in the same range that occurs and does not affect the life. For further information consult a medical physician online -->",
+        "temperature": 1.3
+      },
+      {
+        "question": "What causes antibiotic resistance, and how can we prevent it from getting worse?",
+        "answer": "And for more information consult an ENT physician online -->",
+        "temperature": 1.3
+      },
+      {
+        "question": "Can you explain what blood pressure numbers mean and what's considered a healthy range?",
+        "answer": "For further information consult an internal medicine physician online -->",
+        "temperature": 1.3
+      },
+      {
+        "question": "What is the placebo effect, and how powerful is it in medical treatments?",
+        "answer": "It could not be to be as much larger, if there are any of the similar conditions. It can be as if we have other medications and should be used more frequently in such cases. I would advise you do their treatments in particular, if needed.",
+        "temperature": 1.3
+      }
+    ]
+  }
+}

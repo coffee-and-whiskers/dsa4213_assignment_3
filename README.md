@@ -103,14 +103,4 @@ bash model/scripts/run_qualitative_generation.sh
 - LoRA baseline (10 epochs, lr=3e-4, r=8, alpha=32)
 - LoRA grid search (8 configurations with varying lr, r, alpha, dropout)
 
-## Requirements
-
-- Python 3.10+
-- CUDA-capable GPU (12GB+ VRAM recommended)
-- 60GB disk space for datasets and checkpoints
-
-## Repository
-
-GitHub: [Add your repository URL here]
-
 **Note**: Model checkpoints (48GB) are not included in the repository. Please download them separately or train from scratch using the provided scripts.
